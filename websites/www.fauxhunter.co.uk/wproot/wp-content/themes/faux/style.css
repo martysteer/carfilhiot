@@ -1,0 +1,362 @@
+/*  
+Theme Name: Faux
+Theme URI: http://www.amazonsystems.co.uk
+Description: "Faux" - Based on Lesbar. Simple, quick, readable one column wp theme
+Version: 1.0
+Author: gil
+Author URI: http://www.amazonsystems.co.uk
+
+Please feel free to tweak this theme and make it your own. :)
+*/
+
+a {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+a img {
+	border: none;
+}
+
+a:visited {
+      color: #ff0000;
+      text-decoration: underline;
+}
+
+a:hover {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+acronym, abbr {
+	border-bottom: 1px dashed #666;
+}
+
+acronym, abbr, span.caps {
+	font-size: 90%;
+	letter-spacing: .07em;
+}
+
+acronym, abbr {
+	cursor: help;
+}
+
+blockquote {
+	border-left: 5px solid #ccc;
+	margin-left: 1.5em;
+	padding-left: 5px;
+}
+
+body {
+  color: #60002f;
+  margin: 5px;
+  padding-bottom: 55px;
+  border: 0;
+  text-align: left;
+  background: #dfd8e0;
+  background-image: url(http://www.fauxhunter.co.uk/images/10.gif); 
+  background-repeat: repeat;
+  font-family: Comic Sans MS, sans-serif;
+  font-size: medium;
+  width: 90%;	 
+  min-width: 700px;
+}
+
+/* Begin Images */
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+/*	Using 'class="alignright"' on an image will (who would've
+	thought?!) align the image to the right. And using 'class="centered',
+	will of course center the image. This is much better than using
+	align="center", being much more futureproof (and valid) */
+	
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.alignright {
+	float: right;
+	}
+	
+.alignleft {
+	float: left
+	}
+
+/* End Images */
+
+
+
+cite {
+  font-size: .70em;
+	font-style: normal;
+}
+
+h1 {
+	font-size: 32px ;
+	font-weight: bold;
+	letter-spacing: 0px;
+}
+
+h2 {
+	font: 95% Arial, sans-serif;
+	color: #666666;
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	font-family: Arial, sans-serif;
+	margin-top: 0;
+}
+
+ol#comments li p {
+  font-size: .70em;
+}
+
+p, li, .feedback {
+  font: 80%/160%;
+}
+
+/* classes used by the_meta() */
+  list-style: none;
+}
+
+ul.post-meta span.post-meta-key {
+  font-weight: bold;
+}
+
+.credit {
+  font-size: .70em;
+  text-align: center;
+  border-top: 1px solid #666;
+}
+
+.credit a:link, .credit a:hover {
+}
+
+.feedback {
+  padding-bottom: 0px;
+  font-size: .70em;
+}
+
+.feedback2 {
+  padding-bottom: 25px;
+  font-size: .70em;
+  text-align: right;
+}
+
+.meta {
+  font-size: .70em;
+}
+
+.meta li, ul.post-meta li {
+  display: inline;
+}
+
+.meta ul {
+  display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.meta, .meta a {
+  color: #666;
+	font-weight: normal;
+}
+
+.storytitle {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+}
+
+.storytitle a {
+  text-decoration: none;
+}
+
+.storytitle a:hover{
+  text-decoration: none;
+}
+
+#commentform #author, #commentform #email, #commentform #url, #commentform textarea {
+  background: #fff;
+	border: 1px solid #666;
+	padding: .2em;
+}
+
+#commentform textarea {
+  width: 80%;
+}
+
+#commentlist li ul {
+  border-left: 1px solid #666;
+	font-size: .70em;
+	list-style-type: none;
+}
+
+#content {
+       margin-top: 0px;
+	padding-top: 5px;
+       clear:both;
+}
+
+#header {
+	margin: 0;
+	padding: 2px;
+	background-color: #eee;
+}
+
+#header a {
+  text-decoration: none;
+}
+
+#header a:hover {
+  text-decoration: none;
+}
+
+#menu_top {
+  padding-top: 0px;
+  font-size: .70em;
+  text-align: right;
+  background-color: #fff;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  padding: 2px;
+}
+
+#menu_top form {
+  margin: 0 0 0 13px;
+}
+
+#menu_top input#s {
+	background: #fff;
+	color: #000;
+}
+
+#menu_top ul {
+  margin: 0; 
+  padding: 0; 
+	list-style-type: none; 
+	list-style-image: none; 
+}
+
+#menu_top li {
+  display: inline;
+  padding-left: 15px;
+}
+
+#menu_top ul ul {
+  margin: 0;
+	padding: 0;
+}
+
+#menu_top ul ul li {
+  margin-top: 0;
+	padding: 0;
+}
+
+#menu_top ul li a {
+  text-decoration: none;  
+  margin: 0;
+}
+
+#menu_top ul ul li a:hover {
+  text-decoration: none;
+}
+
+#menu {
+  padding-top: 10px;
+  font-size: 1em;
+  text-align: right;
+}
+
+#menu form {
+  margin: 0 0 0 13px;
+}
+
+#menu input#s {
+	background: #fff;
+	color: #000;
+}
+
+#menu ul {
+  margin: 0; 
+  padding: 0; 
+	list-style-type: none; 
+	list-style-image: none; 
+}
+
+#menu li {
+  display: inline;
+  padding-left: 15px;
+}
+
+#menu ul ul {
+  margin: 0;
+	padding: 0;
+}
+
+#menu ul ul li {
+  margin-top: 0;
+	padding: 0;
+}
+
+#menu ul li a {
+  text-decoration: none;  
+  margin: 0;
+}
+
+#menu ul ul li a:hover {
+  text-decoration: none;
+}
+
+#menu ul ul ul.children {
+}
+
+#wp-calendar {
+}
+
+#wp-calendar #next a {
+}
+
+#wp-calendar #prev a {
+}
+
+#wp-calendar a {
+}
+
+#wp-calendar a:hover {
+}
+
+#wp-calendar caption {
+}
+
+#wp-calendar td {
+}
+
+#wp-calendar td.pad:hover {
+}
+
+#wp-calendar td:hover, #wp-calendar #today {
+}
+
+#wp-calendar th {
+}

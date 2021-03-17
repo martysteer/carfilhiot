@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Amazon Harlequin</title>
+	<!-- Rollover Image Script - Place within <head> tag -->
+<script language="JavaScript" type="text/javascript">
+<!-- Hide from older browsers
+function SwitchImg()
+{ //start
+  var rem, keep=0, store, obj, switcher=new Array, history=document.Data;
+    for (rem=0; rem < (SwitchImg.arguments.length-2); rem+=3) {
+    	store = SwitchImg.arguments[(navigator.appName == 'Netscape')?rem:rem+1];
+    if ((store.indexOf('document.layers[')==0 && document.layers==null) ||
+        (store.indexOf('document.all[')==0 && document.all==null))
+         store = 'document'+store.substring(store.lastIndexOf('.'),store.length);
+         obj = eval(store);
+    if (obj != null) {
+   	   switcher[keep++] = obj;
+      switcher[keep++] = (history==null || history[keep-1]!=obj)?obj.src:history[keep];
+      obj.src = SwitchImg.arguments[rem+2];
+  } }
+  document.Data = switcher;
+} //end
+
+function RestoreImg()
+{ //start
+  if (document.Data != null)
+    for (var rem=0; rem<(document.Data.length-1); rem+=2)
+      document.Data[rem].src=document.Data[rem+1];
+} //end
+
+// end hiding contents -->
+</script>
+
+</head>
+
+<body bgcolor = #030303 text=#FFFFFF>
+<center>
+<img src="images/concert2.jpg" width="640" height="480" border="0"><br>
+
+<a href="band.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.band','document.band','images/bandovr.gif')"><img src="images/bandtop.gif" name="band" width="150" height="50" alt="The Band" border="0"></a>
+<img src="images/blank.gif" width="90" height="30" border="0">
+<a href="albums.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.albums','document.albums','images/albovr.gif')"><img src="images/albtop.gif" name="albums" width="150" height="50" alt="Albums" border="0"></a>
+<img src="images/blank.gif" width="90" height="30" border="0">
+<a href="tour.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.tour','document.tour','images/tourovr.gif')"><img src="images/tourtop.gif" name="tour" width="150" height="50" alt="The Tour" border="0"></a>
+</center>
+</body>
+</html>

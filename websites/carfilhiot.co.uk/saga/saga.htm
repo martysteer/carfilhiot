@@ -1,0 +1,337 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>The Carfilhiot Saga</title>
+	<style type="text/css">
+	body
+    { 
+		background-color: rgb(232,232,248);
+		color: rgb(33,0,165);
+		font-family: serif
+    }
+
+
+	</style>
+	<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+	var arraysize = 200;
+	var currpage = 0;
+    var page = new Array(arraysize);
+	var date = new Array(arraysize+1);
+    var n = 0;
+	var noofitems=0;
+page[n] = "intropage.htm"; date[n++] = new Date(2005,1-1,1,0,0,0);
+page[n] = "http://totallyruined.wordpress.com/2005/01/26/a-whiff-of-archaeology/" ; date[n++] = new Date(2005,1-1,26,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2005/02/03/no-date/" ; date[n++] = new Date(2005,2-1,3,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2005/02/21/the-site-briefing/" ; date[n++] = new Date(2005,2-1,21,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2005/03/04/site-photos/" ; date[n++] = new Date(2005,3-1,4,0,0,0					 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=7" ; date[n++] = new Date(2005,3-1,15,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=10" ; date[n++] = new Date(2005,3-1,16,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=13" ; date[n++] = new Date(2005,3-1,17,0,0,0	 );
+page[n] = "http://totallyruined.wordpress.com/2005/03/17/d-is-archaeology/" ; date[n++] = new Date(2005,3-1,17,12,0,0					 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=16" ; date[n++] = new Date(2005,3-1,18,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=19" ; date[n++] = new Date(2005,3-1,19,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=21" ; date[n++] = new Date(2005,3-1,20,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=26" ; date[n++] = new Date(2005,3-1,21,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=28" ; date[n++] = new Date(2005,3-1,22,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=30" ; date[n++] = new Date(2005,3-1,24,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=32" ; date[n++] = new Date(2005,3-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=34" ; date[n++] = new Date(2005,3-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=36" ; date[n++] = new Date(2005,3-1,27,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=46" ; date[n++] = new Date(2005,3-1,29,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=40" ; date[n++] = new Date(2005,3-1,30,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=42" ; date[n++] = new Date(2005,3-1,31,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=54" ; date[n++] = new Date(2005,4-1,2,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=23" ; date[n++] = new Date(2005,4-1,2,12,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=58" ; date[n++] = new Date(2005,4-1,3,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=48" ; date[n++] = new Date(2005,4-1,3,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=60" ; date[n++] = new Date(2005,4-1,4,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=49" ; date[n++] = new Date(2005,4-1,4,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=62" ; date[n++] = new Date(2005,4-1,5,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=65" ; date[n++] = new Date(2005,4-1,6,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=50" ; date[n++] = new Date(2005,4-1,7,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=67" ; date[n++] = new Date(2005,4-1,7,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=70" ; date[n++] = new Date(2005,4-1,8,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=74" ; date[n++] = new Date(2005,4-1,9,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=76" ; date[n++] = new Date(2005,4-1,10,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=79" ; date[n++] = new Date(2005,4-1,11,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=84" ; date[n++] = new Date(2005,4-1,12,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=51" ; date[n++] = new Date(2005,4-1,12,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=81" ; date[n++] = new Date(2005,4-1,13,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=88" ; date[n++] = new Date(2005,4-1,14,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=351" ; date[n++] = new Date(2005,4-1,15,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=91" ; date[n++] = new Date(2005,4-1,16,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=93" ; date[n++] = new Date(2005,4-1,17,0,0,0	 );
+page[n] = "http://totallyruined.wordpress.com/2005/04/18/greece-what-happened/" ; date[n++] = new Date(2005,4-1,18,0,0,0					 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=95" ; date[n++] = new Date(2005,5-1,17,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=97" ; date[n++] = new Date(2005,5-1,17,12,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=99" ; date[n++] = new Date(2005,5-1,18,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=103" ; date[n++] = new Date(2005,5-1,19,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=52" ; date[n++] = new Date(2005,4-1,19,12,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=105" ; date[n++] = new Date(2005,5-1,20,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=108" ; date[n++] = new Date(2005,5-1,22,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=110" ; date[n++] = new Date(2005,5-1,23,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=114" ; date[n++] = new Date(2005,5-1,24,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=116" ; date[n++] = new Date(2005,5-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=119" ; date[n++] = new Date(2005,5-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=121" ; date[n++] = new Date(2005,5-1,28,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=126" ; date[n++] = new Date(2005,5-1,30,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=128" ; date[n++] = new Date(2005,5-1,31,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=130" ; date[n++] = new Date(2005,6-1,1,6,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=132" ; date[n++] = new Date(2005,6-1,2,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=134" ; date[n++] = new Date(2005,6-1,3,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=53" ; date[n++] = new Date(2005,6-1,4,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=136" ; date[n++] = new Date(2005,6-1,6,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=54" ; date[n++] = new Date(2005,6-1,6,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=138" ; date[n++] = new Date(2005,6-1,7,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=140" ; date[n++] = new Date(2005,6-1,8,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=55" ; date[n++] = new Date(2005,6-1,9,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=142" ; date[n++] = new Date(2005,6-1,9,6,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=56" ; date[n++] = new Date(2005,6-1,11,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=146" ; date[n++] = new Date(2005,6-1,12,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=148" ; date[n++] = new Date(2005,6-1,14,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=150" ; date[n++] = new Date(2005,6-1,16,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=152" ; date[n++] = new Date(2005,6-1,19,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=154" ; date[n++] = new Date(2005,6-1,21,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=156" ; date[n++] = new Date(2005,6-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=163" ; date[n++] = new Date(2005,6-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=165" ; date[n++] = new Date(2005,6-1,27,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=167" ; date[n++] = new Date(2005,6-1,28,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=169" ; date[n++] = new Date(2005,6-1,29,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=172" ; date[n++] = new Date(2005,6-1,30,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=24" ; date[n++] = new Date(2005,6-1,30,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=174" ; date[n++] = new Date(2005,7-1,3,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=176" ; date[n++] = new Date(2005,7-1,4,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=180" ; date[n++] = new Date(2005,7-1,5,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=57" ; date[n++] = new Date(2005,7-1,5,12,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=58" ; date[n++] = new Date(2005,7-1,7,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=182" ; date[n++] = new Date(2005,7-1,8,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=59" ; date[n++] = new Date(2005,7-1,8,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=184" ; date[n++] = new Date(2005,7-1,11,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=25" ; date[n++] = new Date(2005,7-1,15,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=186" ; date[n++] = new Date(2005,7-1,20,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=189" ; date[n++] = new Date(2005,7-1,21,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=26" ; date[n++] = new Date(2005,7-1,23,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=28" ; date[n++] = new Date(2005,7-1,24,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=191" ; date[n++] = new Date(2005,7-1,26,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=60" ; date[n++] = new Date(2005,7-1,27,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=193" ; date[n++] = new Date(2005,7-1,28,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=195" ; date[n++] = new Date(2005,8-1,1,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=198" ; date[n++] = new Date(2005,8-1,2,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=61" ; date[n++] = new Date(2005,8-1,3,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=200" ; date[n++] = new Date(2005,8-1,8,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=27" ; date[n++] = new Date(2005,8-1,11,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=203" ; date[n++] = new Date(2005,8-1,15,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=62" ; date[n++] = new Date(2005,8-1,19,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=206" ; date[n++] = new Date(2005,8-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=209" ; date[n++] = new Date(2005,8-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=211" ; date[n++] = new Date(2005,8-1,27,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=214" ; date[n++] = new Date(2005,9-1,7,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=63" ; date[n++] = new Date(2005,9-1,14,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=64" ; date[n++] = new Date(2005,9-1,22,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=216" ; date[n++] = new Date(2005,9-1,23,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=218" ; date[n++] = new Date(2005,9-1,24,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=65" ; date[n++] = new Date(2005,9-1,24,12,0,0			 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=222" ; date[n++] = new Date(2005,9-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=224" ; date[n++] = new Date(2005,9-1,26,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=66" ; date[n++] = new Date(2005,9-1,26,12,0,0			 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=226" ; date[n++] = new Date(2005,9-1,28,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=228" ; date[n++] = new Date(2005,10-1,3,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=231" ; date[n++] = new Date(2005,10-1,6,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=235" ; date[n++] = new Date(2005,10-1,13,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=237" ; date[n++] = new Date(2005,10-1,19,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=239" ; date[n++] = new Date(2005,10-1,26,0,0,0 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=30" ; date[n++] = new Date(2005,10-1,27,0,0,0			 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=31" ; date[n++] = new Date(2005,10-1,28,0,0,0			 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=241" ; date[n++] = new Date(2005,11-1,1,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=32" ; date[n++] = new Date(2005,1-11,2,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=244" ; date[n++] = new Date(2005,11-1,9,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=246" ; date[n++] = new Date(2005,11-1,30,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=248" ; date[n++] = new Date(2005,12-1,1,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=251" ; date[n++] = new Date(2005,12-1,7,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=253" ; date[n++] = new Date(2005,12-1,10,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=255" ; date[n++] = new Date(2005,12-1,14,0,0,0 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=36" ; date[n++] = new Date(2005,12-1,14,12,0,0			 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=257" ; date[n++] = new Date(2005,12-1,15,0,0,0 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=37" ; date[n++] = new Date(2005,12-1,15,12,0,0			 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=259" ; date[n++] = new Date(2005,12-1,28,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=263" ; date[n++] = new Date(2005,12-1,30,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=265" ; date[n++] = new Date(2005,12-1,31,0,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=267" ; date[n++] = new Date(2006,1-1,3,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=270" ; date[n++] = new Date(2006,1-1,5,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=274" ; date[n++] = new Date(2006,1-1,6,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=276" ; date[n++] = new Date(2006,1-1,8,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=278" ; date[n++] = new Date(2006,1-1,9,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=38" ; date[n++] = new Date(2006,1-1,9,12,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=39" ; date[n++] = new Date(2006,1-1,11,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=40" ; date[n++] = new Date(2006,1-1,13,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=41" ; date[n++] = new Date(2006,1-1,16,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=280" ; date[n++] = new Date(2006,1-1,16,12,0,0 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=283" ; date[n++] = new Date(2006,1-1,17,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=42" ; date[n++] = new Date(2006,1-1,18,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=43" ; date[n++] = new Date(2006,1-1,19,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=44" ; date[n++] = new Date(2006,1-1,20,0,0,0				 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=45" ; date[n++] = new Date(2006,1-1,21,12,0,0             );                                                          
+page[n] = "http://carfilhiot.co.uk/wproot/?p=285" ; date[n++] = new Date(2006,1-1,21,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=46" ; date[n++] = new Date(2006,1-1,23,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=287" ; date[n++] = new Date(2006,1-1,24,0,0,0	 );
+page[n] = "http://totallyruined.wordpress.com/2006/01/26/hello-again/" ; date[n++] = new Date(2006,1-1,26,0,0,0					 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=289" ; date[n++] = new Date(2006,1-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=292" ; date[n++] = new Date(2006,1-1,28,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=47" ; date[n++] = new Date(2006,1-1,31,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=295" ; date[n++] = new Date(2006,2-1,1,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=297" ; date[n++] = new Date(2006,2-1,12,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=299" ; date[n++] = new Date(2006,2-1,22,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=301" ; date[n++] = new Date(2006,2-1,24,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=303" ; date[n++] = new Date(2006,2-1,25,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=305" ; date[n++] = new Date(2006,2-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=307" ; date[n++] = new Date(2006,3-1,1,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=309" ; date[n++] = new Date(2006,3-1,3,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=313" ; date[n++] = new Date(2006,3-1,6,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=311" ; date[n++] = new Date(2006,3-1,8,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=315" ; date[n++] = new Date(2006,3-1,14,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=317" ; date[n++] = new Date(2006,3-1,21,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=319" ; date[n++] = new Date(2006,3-1,29,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=321" ; date[n++] = new Date(2006,3-1,30,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=323" ; date[n++] = new Date(2006,4-1,3,0,0,0	 );
+page[n] = "http://totallyruined.wordpress.com/2006/04/18/oh-god-what-to-do/" ; date[n++] = new Date(2006,4-1,18,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2006/04/19/at-my-wits-end/" ; date[n++] = new Date(2006,4-1,19,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2006/04/25/good-news-what-a-relief/" ; date[n++] = new Date(2006,4-1,25,0,0,0					 );
+page[n] = "http://totallyruined.wordpress.com/2006/04/26/sanity-returns/" ; date[n++] = new Date(2006,4-1,26,0,0,0					 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=326" ; date[n++] = new Date(2006,5-1,4,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=338" ; date[n++] = new Date(2006,5-1,8,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=336" ; date[n++] = new Date(2006,5-1,10,0,0,0	 );
+page[n] = "http://fauxhunter.co.uk/wproot/?p=69" ; date[n++] = new Date(2006,5-1,12,0,0,0				 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=333" ; date[n++] = new Date(2006,5-1,14,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=330" ; date[n++] = new Date(2006,5-1,29,0,0,0	 );
+
+page[n] = "http://carfilhiot.co.uk/wproot/?p=340" ; date[n++] = new Date(2007,5-1,22,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=342" ; date[n++] = new Date(2007,6-1,4,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=344" ; date[n++] = new Date(2007,6-1,14,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=346" ; date[n++] = new Date(2007,6-1,26,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=348" ; date[n++] = new Date(2007,7-1,12,0,0,0	 );
+page[n] = "http://carfilhiot.co.uk/wproot/?p=348" ; date[n++] = new Date(2008,12-1,31,0,0,0	 );
+	noofitems=n-1;
+	page[arraysize-1] = "intropage.htm";
+	
+	function change_page(pageno)
+	{
+        document.getElementById("myiframe").src=page[pageno];  
+	    //alert(page[pageno] + " " + date[pageno]);
+    }
+	function first_image()
+	{
+	    change_page(0);
+		currpage=0;
+	}
+	function last_image()
+	{
+	    change_page(noofitems-1);
+		currpage = noofitems-1;
+	}
+	function next_image(incr)
+	{
+	    currpage=currpage+incr;
+		if ((currpage >= noofitems) || (currpage < 0))
+		{
+		    currpage = currpage-incr;
+			alert("No more items");
+		}
+		else
+			change_page(currpage);
+	}
+	function selectdate()
+	{
+	    var d = new Date()
+		var f = document.dateentry;
+	    d.setDate(f.day.value);
+        d.setMonth(f.month.value);
+        d.setFullYear(f.year.value);
+		for (var ii=0; ii<noofitems; ii++)
+		{
+		    if ((d>=date[ii]) && (d<=date[ii+1]))
+			{
+			    change_page(ii);
+				currpage=ii;
+				break;
+			}
+		}
+	}
+    </SCRIPT>
+</head>
+
+<body>
+<img src="../images/saga.gif" width="700" height="100" alt="The Carfilhiot Saga" border="0">
+
+<br>
+<BUTTON onclick="first_image()"><b>&lt;&lt;</b> First Item</BUTTON>&nbsp;&nbsp;&nbsp;&nbsp;
+<BUTTON onclick="next_image(-1)"><b>&lt;</b> Previous Item</BUTTON>&nbsp;&nbsp;&nbsp;&nbsp;
+<BUTTON onclick="next_image(1)">Next Item <b>&gt;</b></BUTTON>&nbsp;&nbsp;&nbsp;&nbsp;
+<BUTTON onclick="last_image()">Last Item <b>&gt;&gt;</b></BUTTON>&nbsp;&nbsp;&nbsp;&nbsp;
+<BUTTON onclick="change_page(arraysize-1)">Help </BUTTON>
+<FORM name="dateentry" ACTION="javascript:selectdate()" METHOD=submit>
+<SELECT NAME="day">
+<OPTION value=1>1
+<OPTION value=2>2
+
+<OPTION value=3>3
+<OPTION value=4>4
+<OPTION value=5>5
+<OPTION value=6>6
+<OPTION value=7>7
+<OPTION value=8>8
+<OPTION value=9>9
+<OPTION value=10>10
+<OPTION value=11>11
+<OPTION value=12>12
+<OPTION value=13>13
+<OPTION value=14>14
+<OPTION value=15>15
+<OPTION value=16>16
+<OPTION value=17>17
+<OPTION value=18>18
+<OPTION value=19>19
+
+<OPTION value=20>20
+<OPTION value=21>21
+<OPTION value=22>22
+<OPTION value=23>23
+<OPTION value=24>24
+<OPTION value=25>25
+<OPTION value=26>26
+<OPTION value=27>27
+<OPTION value=28>28
+<OPTION value=29>29
+<OPTION value=30>30
+<OPTION value=31>31
+</SELECT>
+<SELECT NAME="month">
+<OPTION value=0>January
+<OPTION value=1>February
+<OPTION value=2>March
+
+<OPTION value=3>April
+<OPTION value=4>May
+<OPTION value=5>June
+<OPTION value=6>July
+<OPTION value=7>August
+<OPTION value=8>September
+<OPTION value=9>October
+<OPTION value=10>November
+<OPTION value=11>December
+</SELECT>
+<SELECT NAME="year">
+<OPTION value=2005>2005
+<OPTION value=2006>2006
+<OPTION value=2007>2007
+</SELECT>
+<INPUT TYPE=submit NAME=foo VALUE="Select Date">
+</FORM>
+
+<IFRAME id="myiframe" src= "intropage.htm" width=800 height=600>
+Embedded data could not be displayed 
+</IFRAME>
+<br><br>
+<small>All text and images Copyright &copy; Amazon Systems 2005-2009 All Rights Reserved </small>
+</body>
+</html>

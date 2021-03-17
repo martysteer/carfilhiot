@@ -1,0 +1,36 @@
+/*-------------------------------------------------
+  Laila Skin Stylesheet (print version)
+  Design by Thomas Arie Setiawan
+  http://warnadunia.net/
+  Ported to NucleusCMS by moraes
+-------------------------------------------------*/
+
+body, #comments, #trackbacks
+{
+	font-family: serif;
+	font-size: 12pt;
+	line-height: 18px;
+	color: #000;
+}
+a, a:visited
+{
+	color: #000;
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body .date-header, body .entry-title
+{
+	color: #000;
+}
+#sidebar, .top_links, #top_container, .bar-head, #comments-post
+{
+	display: none;
+}
+#content-wrapper, #content-wrapper2, #main
+{
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+.doNotPrint
+{
+	display: none !important;
+}

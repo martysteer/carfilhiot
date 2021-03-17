@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /ftpupload
+Disallow: /conceal
+Disallow: /base/grandprix
+

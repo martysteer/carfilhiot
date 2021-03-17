@@ -1,0 +1,88 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Fauxhunter Alfredo Garcia Diamond Mine</title>
+</head>
+
+<body bgcolor="#E0E0E0" text = "#660033" >
+<font face="Comic Sans MS">
+<table>
+<tr>
+<td background="images/10.gif">
+<table cellspacing="4" cellpadding="4" >
+<tr>
+<td colspan=2 align=center><img 
+src="images/alfredo.gif"></td>
+</tr>
+<tr>
+<td valign=top width=250><a href="index.htm"><font size="+1"><b>Introduction</b></font></a>
+<br><a href="design.htm"><font size="+1"><b>Design</B></font></a>
+<br><a href="construction.htm"><font size="+1"><b>Construction</B></font></a>
+<br><a href="publicity.htm"><font size="+1"><b>Publicity</B></font></a>
+<br><a href="scamhunt.htm"><font size="+1"><b>Scamhunt</B></font></a>
+<br><a href="./wproot/?cat=2&order=asc"><font size="+1"><b>The Hunt for Carfilhiot</B></font></a>
+<br><a href="diamond.htm"><font size="+1"><b>The Diamond Mine</B></font></a>
+<br><a href="paypalacc.htm"><font size="+1"><b>Paypal Phishing</B></font></a>
+<br><a href="./wproot/"><font size="+1"><b>Blog</B></font></a>
+
+<BR></td>
+<td><H1>The Ebay Phishing Email</H1>
+This is the email that arrived. Not for MY address but a friend who forwarded it:
+<img src="images/phishingebay.jpg" width="454" height="650" alt="" border="0"><br>
+
+Now this all looks OK with the right logo and the copyright stuff. And if you
+click any link other than the one in the middle it takes you to the real eBay
+site for stuff like <B>User Agreement</B> or <B>Privacy Policy</B>
+<P>
+Even the URL in the middle looks OK. Its a genuine eBay one. But on this page
+its only the description of the link not the link iself.
+<P>
+If you hover on this URL, the URL your really going to is something like:<br>
+<tt>https://signin.ebay.com/sw-cgi/eBayITAPI.dll?SignIn& runame=LIVEWORLD_US_ANSWER_CENTER<br>
+&amp; ruproduct= User + Agreement + Update & amp; ruparams=page%3D<font color=red>@</font><b>http://69.56.253.18/ ~lizard/ebay/aw-cgi/login.php</b> 
+https://signin.ebay.com/sw-cgi/eBayITAPI.dll</tt>
+<P>
+This still looks pretty good to you because it starts an finishes with the
+right kind of URL. But the way a browser processes an URL it checks thru
+for the "@" sign (which your noticing because I made it red) and the next thing 
+after that is the site it really goes to.
+<P>
+So its really going to <tt><b>http://69.56.253.18/~lizard/ebay/aw-cgi/login.php</b></tt>.
+<P>
+And this page in turn was set up by somebody who took out a anonymous subscription
+for a web site from <b>ThePlanet.com Internet Services, Inc</b> but it could of
+been any big ISP.
+<P>
+When you get there you see a screen like this:<P>
+<img src="images/ebaylogin.jpg" alt="" border="0">
+<P>
+Which looks like the real eBay log in screen. If you fill in your name and
+password they got you. They take the name and password then they pass you to a screen
+to verify your PayPal data so they get that too. I dont have an image
+for that page because I would need to give away my eBay login info to get to it.
+<P>
+Finally they pass you to the 
+real eBay log in. You think something went wrong so you log in again and after
+that its all normal except that they have your important passwords. They can 
+change your address details, make a big Buy It Now purchase and they get away with
+it.
+<P>
+I would of liked to find the scammer who did this but its hopeless he probably
+didnt even live in America never mind England. And the site was dead two days later.
+<P>
+But what I did I reported him to the ISP and to various scambuster sites so over
+time it might mean its harder for him also spam filters are beginning to be
+able to recognise these concealed URLs.
+<P><small>&copy;Alfredo Garc&iacute;a 2004-2006 All Rights Reserved</small>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</font>
+
+</body>
+</html>

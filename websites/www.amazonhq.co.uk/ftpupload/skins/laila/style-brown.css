@@ -1,0 +1,427 @@
+/*-------------------------------------------------
+  Laila Skin Stylesheet
+  Design by Thomas Arie Setiawan
+  http://warnadunia.net/
+  Ported to Nucleus CMS by moraes
+-------------------------------------------------*/
+
+/*-------------------------------------------------
+  General layout
+-------------------------------------------------*/
+body
+{
+	background: #EAE7D6;
+	font: small Verdana,Sans-serif;
+	line-height: 1.6em;
+	color: #333;
+	text-align: center;
+	padding: 0;
+	margin: 20px 0 20px 0;
+}
+
+/* Links */
+a:link, a:visited
+{
+	color: #0F4002;
+	border-bottom: 1px dashed #DBBA8A;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #0F4002;
+}
+a:active
+{
+	color: #0F4002;
+}
+a:hover
+{
+	color: #ff0000;
+	border-bottom: 1px solid #ff0000;
+	text-decoration: none;
+}
+
+/* Lists */
+ul
+{
+	list-style: square;
+	padding: 0;
+	margin: 0 0 0 15px;
+}
+ul li
+{
+	margin: 4px 0 4px 0;
+}
+
+/* Miscelaneous general stuff */
+code
+{
+	color: #CC3300;
+	font: 13px 'Courier New', Courier, Arial, sans-serif;
+}
+pre
+{
+	width: 462px;
+	overflow: auto;
+	border: 1px solid #EAE7D6;
+	padding: 3px;
+}
+acronym, abbr
+{
+	cursor: help;
+	border-bottom: 1px dotted #333;
+}
+del
+{
+	background: #FFFFCC;
+	color: #ccc;
+}
+blockquote
+{
+	background: url("img/bg-quote.gif") top left no-repeat;
+	padding: 8px 0 0 25px;
+	margin: 10px;
+}
+.doNotDisplay, .none, caption
+{
+	display: none;
+}
+.underline
+{
+	text-decoration: underline;
+}
+.clear
+{
+	clear: both;
+	height: 0.1px;
+	padding: 0;
+	margin: 0;
+}
+
+/*-------------------------------------------------
+  Page wrappers
+-------------------------------------------------*/
+#page-wrapper
+{
+	text-align: left;
+	width: 750px;
+	padding: 0;
+	margin: auto;
+}
+#content-wrapper
+{
+	width: 750px;
+	margin: 0;
+	padding: 0;
+	background: #FFF url(img/bg-content-brown.gif) right repeat-y;	
+}
+
+/*-------------------------------------------------
+  Header
+-------------------------------------------------*/
+#header
+{
+	padding: 0;
+	margin: 0;
+}
+#header h1
+{
+	font: 30px Arial, Verdana, sans-serif;
+	padding: 10px;
+	margin: 0;
+}
+#header a:link, #header a:visited
+{
+	color: #383828;
+	border: none;
+}
+#header a:hover, #header a:active
+{
+	color: #CC0000;
+}
+
+/* Header main navbar */
+#top_container
+{
+	height: 30px;
+	background: #656549;
+	padding: 0;
+	margin: 0;
+}
+#top_container ul
+{
+	padding: 0;
+	margin: 0;
+}
+#top_container ul li
+{
+	list-style-type: none;
+	display: block;
+	float: left;
+	font: 11px/30px "Lucida Grande", verdana, sans-serif;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+#top_container a
+{
+	display: block;
+	width: 106px;
+	color: #F8F2E5;
+	text-decoration: none;
+	border-top: none;
+	border-right: 1px solid #A8B090;
+	border-bottom: none;
+}
+#top_container li#active
+{
+	background: #474733;
+	color: #fff;
+	border-bottom: none;
+}
+#top_container a:hover
+{
+	background: #83835F;
+	color: #fff;
+	border-bottom: none;
+}
+
+/* Header links */
+.top_links {
+	background: #F3F3E9;
+	font-size: 10px;
+	text-align: right;
+	padding: 0 20px 0 0;
+	margin: 0;
+}
+.top_links p {
+	padding: 0;
+	margin: 0;
+}
+
+/*-------------------------------------------------
+  Main content
+-------------------------------------------------*/
+#main
+{
+	width: 500px;
+	float: left;
+	margin: 0;
+	padding: 0 0 30px 0;
+	background: #fff;
+}
+/* The image at the top of the main column */
+.bar-head
+{
+	height: 170px;
+	background: url("img/bg-header-brown.jpg") top left no-repeat;
+	padding: 0;
+	margin: 0 0 15px 0;
+}
+
+.content-header
+{
+	padding: 0;
+	margin: 15px;
+}
+.content-header h2
+{
+	color: #0F4002;
+	font: bold 14px Verdana, 'Times New Roman', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.content-title
+{
+	padding: 0;
+	margin: 0;
+}
+.content-title h3
+{
+	color: #383828;
+	font: 24px Arial, 'Times New Roman', sans-serif;
+	padding: 0;
+	margin: 0 0 8px 0;
+}
+.content-title h3 a
+{
+	color: #383828;
+	border: none;
+}
+.content-title h3 a:hover
+{
+	color: #FF0000;
+	border: none;
+}
+.content
+{
+	padding: 0;
+	margin: 20px 15px 40px 15px;
+}
+.readmore
+{
+	text-align: right;
+}
+.entry-info
+{
+	font-size: 10px;
+	text-align: right;
+	line-height: 16px;
+	padding: 0;
+	border-top: 1px solid #ccc;
+	margin: 10px 0 10px 0;
+}
+.entry-info p
+{
+	padding: 0;
+	margin: 0;
+}
+.entry .imgupload
+{
+	float: left;
+	border: none;
+	border: 1px solid #333;
+	margin: 20px 10px 0 0;
+}
+
+/* navigation at the bottom of the content */
+.navi-pages
+{
+	background: #E1E1A2;
+	font-size: 11px;
+	text-align: right;
+	padding: 10px;
+	margin: 15px;
+}
+.navi-pages p
+{
+	padding: 0;
+	margin: 0;
+}
+/* Top content message box */
+.message-box
+{
+	background: #E1E1A2;
+	font-size: 12px;
+	padding: 10px;
+	margin: 15px;
+}
+/* comments */
+table#postcomment tr td
+{
+	font: 11px Verdana, Arial, sans-serif;
+}
+table#postcomment tr td p
+{
+	margin: 4px 0 4px 0;
+}
+#comments, #comments-post, #trackbacks
+{
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0;
+	margin: 20px 15px 10px 15px;
+}
+#comments h4, #comments-post h4, #trackbacks h4
+{
+	color: #383828;
+	font: bold 14px Verdana, 'Times New Roman', sans-serif;
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+.comment-item, .trackbacks-item
+{
+	padding: 0 0 20px 0;
+	border-bottom: 1px solid #f3f3f3;
+	margin: 5px 0 20px 0;
+}
+.comment-text p, .comment-info p, .trackbacks-text p, .trackbacks-info p
+{
+	padding: 0;
+	margin: 0 0 8px 0;
+}
+.comment-info, .trackbacks-info
+{
+	font-size: 10px;
+	text-align: right;
+}
+
+/*-------------------------------------------------
+  Side bar
+-------------------------------------------------*/
+#sidebar
+{
+	width: 240px;
+	float: right;
+	font-size: 11px;
+	line-height: 16px;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+.sidebar-wrapper
+{
+	margin: 10px;
+}
+#sidebar .box-1
+{
+	margin: 0 0 30px 0;
+}
+#sidebar h4
+{
+	color: #383828;
+	font: bold 12px Verdana, Arial, sans-serif;
+	padding: 0;
+	margin: 0 0 8px 0;
+}
+
+/*-------------------------------------------------
+  Footer
+-------------------------------------------------*/
+#footer
+{
+	background: #E1E1A2;
+	font-size: 10px;
+	padding: 0;
+	margin: 0;
+}
+.footer-i
+{
+	padding: 10px;
+	margin: 0px;
+}
+.footer-i p
+{
+	padding: 0;
+	margin: 0;
+}
+
+/*-------------------------------------------------
+  Forms
+-------------------------------------------------*/
+textarea.text, input.formfield
+{
+	font: 11px Verdana, Arial, sans-serif;
+}
+input.formfield
+{
+	width: 150px;
+	margin-right: 10px;
+}
+input.formbutton
+{
+	background: #383828;
+	color: #fff;
+	font: 11px Verdana, Arial, sans-serif;
+}
+
+/*-------------------------------------------------
+  Miscelaneous
+-------------------------------------------------*/
+.trackbacks-text h5
+{
+	font: bold 11px Verdana, Arial, sans-serif;
+	color: #993300;
+	padding: 0;
+	margin: 0;
+}

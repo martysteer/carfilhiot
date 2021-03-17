@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Amazon Harlequin</title>
+	<!-- Rollover Image Script - Place within <head> tag -->
+<script language="JavaScript" type="text/javascript">
+<!-- Hide from older browsers
+function SwitchImg()
+{ //start
+  var rem, keep=0, store, obj, switcher=new Array, history=document.Data;
+    for (rem=0; rem < (SwitchImg.arguments.length-2); rem+=3) {
+    	store = SwitchImg.arguments[(navigator.appName == 'Netscape')?rem:rem+1];
+    if ((store.indexOf('document.layers[')==0 && document.layers==null) ||
+        (store.indexOf('document.all[')==0 && document.all==null))
+         store = 'document'+store.substring(store.lastIndexOf('.'),store.length);
+         obj = eval(store);
+    if (obj != null) {
+   	   switcher[keep++] = obj;
+      switcher[keep++] = (history==null || history[keep-1]!=obj)?obj.src:history[keep];
+      obj.src = SwitchImg.arguments[rem+2];
+  } }
+  document.Data = switcher;
+} //end
+
+function RestoreImg()
+{ //start
+  if (document.Data != null)
+    for (var rem=0; rem<(document.Data.length-1); rem+=2)
+      document.Data[rem].src=document.Data[rem+1];
+} //end
+
+// end hiding contents -->
+</script>
+
+</head>
+
+<body bgcolor = #030303 text=#CCCC66><font face="arial black">
+<table>
+<tr>
+<td valign=top><a href="index.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.home','document.home','images/homeovr.gif')"><img src="images/hometop.gif" name="home" width="150" height="50" alt="Home" border="0"></a>
+<P><a href="albums.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.Album','document.Album','images/albovr.gif')"><img src="images/albtop.gif" name="Album" width="150" height="50" alt="The Album" border="0"></a>
+<P><a href="tour.htm" onMouseOut="RestoreImg()" onMouseOver="SwitchImg('document.tour','document.tour','images/tourovr.gif')"><img src="images/tourtop.gif" name="tour" width="150" height="50" alt="The Tour" border="0"></a>
+</td>
+<td><center><img src="images/bandtop.gif" width="150" height="50" alt="" border="0"></center>
+<P>The composition of the band has varied only slightly over the years.
+Amazon Harlequin has a policy of never discussing the true names and personal 
+histories of band members.<BR><HR>
+<center><img src="images/xaviera.jpg" width="230" height="438" alt="" border="0"><BR>
+<H2>Xaviera</H2></center>Xaviera, vocals and rhythm guitar, has been with the band from
+the very start, along with fellow founder member, Karina. Xaviera writes most
+of the lyrics for the band, and is the chief singer. Her explosive delivery
+is the basis of Amazon Harlequin's success in live concerts.<P><HR>
+<center><img src="images/karina.jpg" width="351" height="296" alt="" border="0">
+<H2>Karina</H2></center>Karina, vocals and keyboards, composes and arranges most of the music.
+She has a degree in Classical Music Composition.<BR>
+Karina could have been a concert pianist,
+but she prefers to make and play her own music with Amazon Harlequin.<P><HR>
+<center><img src="images/heloise.jpg" width="175" height="272" alt="" border="0">
+<H2>Heloise</H2></center>Heloise, vocals and lead guitar, virtuoso 
+left-handed guitarist, her haunting, plaintive solos are the trademark of Amazon Harlequin.<P><HR>
+<center><img src="images/melita.jpg" width="234" height="351" alt="" border="0">
+<H2>Melita</H2></center>Relative newcomer Melita joined the band in 2005, replacing
+Adonia as bass player. Her solid rock roots provide the melodic pulse of Amazon Harlequin.<P><HR>
+<center><img src="images/chrysilla.jpg" width="209" height="403" alt="" border="0">
+<H2>Chrysilla</H2></center>Heavy metal rock drummer Chrysilla, basis of the powerful
+rhythms of Amazon Harlequin, Chrysilla was previously with ill-fated <b>Yawning Grave</b>.
+</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
