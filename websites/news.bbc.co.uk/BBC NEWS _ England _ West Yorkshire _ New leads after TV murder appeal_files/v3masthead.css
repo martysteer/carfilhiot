@@ -1,0 +1,54 @@
+form.onthisday, form.welsh{padding:0;margin:0;}
+.bbcpageWhite,font.bbcpageWhite,a.bbcpageWhite,a.bbcpageWhite:link,a.bbcpageWhite:hover,a.bbcpageWhite:visited{padding:9px 4px;float:left;}
+.bbcpageHide {position:absolute; left:-2500px; width:1px}
+
+#toolbarContainer{background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/bg.gif) repeat-x bottom #464646; border-bottom:1px solid #ccc;text-shadow: 0 0 0 #000; font-family:verdana,helvetica,arial,sans-serif;}
+#toolbarContainer a {color:#fff; font-size:95%; text-decoration:none; font-weight:normal; color:#f1f1f1;}/*font-size:75%; */
+
+#bbcpageToolbarTable {width:760px;}
+#bbcpageToolbarTable a:hover {color:#fff;}
+
+#bbcpageBlocks {padding:4px 0 2px 5px;}
+
+#bbcpageSearch {font-size:90%; border:none; padding:3px 0 0 3px; height:22px; width:186px;}
+#bbcpageSearchButton {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/s.gif) no-repeat center #ccc; border:none; padding-bottom:1px; height:22px; width:67px; margin:4px;}
+
+#bbcpageExplore {display:inline;}
+#bbcpageExplore a {display:block; height:18px; width:146px; text-align:center; color:#fff; padding-top:4px; line-height:1;}/* line-height:1.7;*/
+
+/*blue*/
+.bbcpageblue #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 220px #242B6C;}
+.bbcpageblue #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 198px #4264A7;}
+/*sky*/
+.bbcpagesky #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 176px #023F6D;}
+.bbcpagesky #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 154px #057CB5;}
+/*teal*/
+.bbcpageteal #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 132px #013E60;}
+.bbcpageteal #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 110px #2591AB;}
+/*lime - CBBCNewsround */
+.bbcpagelime #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 44px #678C00;}
+.bbcpagelime #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 22px #9CBF00;}
+/*green*/
+.bbcpagegreen #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 88px #1E5900;}
+.bbcpagegreen #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 66px #329600;}
+/*aqua*/
+.bbcpageaqua #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 264px #00574C;}
+.bbcpageaqua #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_2.gif) 0 242px #008A79;}
+/*khaki*/
+.bbcpagekhaki #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 264px #4C482C;}
+.bbcpagekhaki #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 242px #8A8459;}
+/*magenta*/
+.bbcpagemagenta #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 88px #800143;}
+.bbcpagemagenta #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 66px #FF0286;}
+/*rose*/
+.bbcpagerose #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 132px #6D1448;}
+.bbcpagerose #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 110px #B11F7B;}
+/*purple*/
+.bbcpagepurple #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 176px #5A266A;}
+.bbcpagepurple #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 154px #944F9F;}
+/*red*/
+.bbcpagered #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 44px #A00000;}
+.bbcpagered #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 22px #E50000;}
+/*orange*/
+.bbcpageorange #bbcpageExplore a {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 220px #A64100;}
+.bbcpageorange #bbcpageExplore a:hover {background:url(http://newsimg.bbc.co.uk/shared/img/v3/masthead/ex_bg_1.gif) 0 198px #FF9A1F;}
