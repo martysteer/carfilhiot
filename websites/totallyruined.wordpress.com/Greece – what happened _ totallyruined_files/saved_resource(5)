@@ -1,0 +1,9 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "error": {
+      "message": "(#2) Service temporarily unavailable",
+      "type": "OAuthException",
+      "is_transient": true,
+      "code": 2,
+      "fbtrace_id": "Au3DO5NF6U0ErIjYd-9DVNo"
+   }
+});
