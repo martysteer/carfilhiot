@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>XFN: XFN and FOAF</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" href="../default.css" rel="stylesheet" />
+<style type="text/css">
+/*<![CDATA[*/
+/*]]>*/
+</style>
+<link rel="start" href="../intro" title="XFN: Introduction and Examples" />
+<link rel="glossary" href="../11" title="XFN profile" />
+<link rel="help" href="../faq" title="XFN: FAQ" />
+<link rel="copyright" href="#copyright" title="Copyright" />
+</head>
+<body>
+<ul id="menu">
+	<li><a href="../">Home</a></li>
+	<li><a href="../intro">Intro</a></li>
+	<li><a href="../join">Join</a></li>
+	<li><a href="../background">Background</a></li>
+	<li><a href="../faq">FAQ</a></li>
+	<li><a id="current" >Tools</a></li>
+	<li><a href="../and/">And...</a></li>
+	<li><a href="../helping">Helping</a></li>
+	<li><a href="../thanks">Thanks</a></li>
+	<li><a href="../feedback">Feedback</a></li>
+</ul>
+<h1><abbr title="XHTML Friends Network">XFN</abbr> and <abbr title="Friend Of A Friend">FOAF</abbr></h1> 
+<ul id="authlist"> 
+  <li><a href="http://www.meyerweb.com/" title="meyerweb.com">Eric A. Meyer</a></li> 
+</ul> 
+<h2>Introduction</h2> 
+<p> Although it would seem at first glance that <dfn>XFN</dfn> (XHTML Friends Network) and <dfn>FOAF</dfn> (Friend Of A Friend) are attempting to do the same thing, on closer inspection we can see a number of differences. Although they serve the same very laudable goal&mdash;allowing authors to express human relationships&mdash;their approaches and implications are dissimilar. This document aims to briefly compare and contrast the two technologies.</p> 
+
+<h2>XFN</h2> 
+<p> <a href="../">XFN</a> is a lightweight method of annotating links to indicate a personal relationship with the person responsible for the linked resource, and as such strengthens existing links in a manner that is both machine-readable and human-comprehensible.</p> 
+<p> Technically speaking, XFN is a relationship datatype with suggested values provided for ease of use in a wide variety of situations, including HTML, XHTML, and XML documents. Thanks to its simplicity and its foundation in existing specifications, it is very easily understood, and it is easily adopted by authors. By building upon the links that already exist in the Web, XFN complements existing information in place, as it were.</p> 
+<p> It is most likely that XFN will be used in "blogrolls," but of course any link to a personal Web site can be annotated using XFN values, regardless of the context in which that link appears. For example, a link from the text of a blog entry to another site might be given a <code>rel</code> attribute containing one or more XFN values. In a blogroll, the advantage in adding XFN information is that it can show which blogs belong to friends, which ones belong to acquaintances, and which ones are favorite sites but are not written by anyone the author knows personally. It is even possible that an author could create <code>meta</code> or <code>link</code> elements that use XFN values to express personal relationship information, but this approach is not encouraged by the creators of XFN, as it adds unnecessary complexity.</p> 
+<p> As an author-centric language, XFN relationships are solely in the hands of authors. It is the case that an author can claim a relationship that does not exist, but the lack of a return link can be taken as an indication that the relationship is a one-sided affair, or at best that one of the authors is lax in updating XFN information. In any case, is up to each author to provide information about his or her relationships with other people.</p> 
+
+<h2>FOAF</h2> 
+<p> <a href="http://rdfweb.org/foaf/">FOAF</a> is an RDF format intended to provide "a way of representing information about people in a way that is easily processed, merged and aggregated" <sup>[<a href="#fnotes">1</a>]</sup> and is primarily concerned with allowing an author to provide a detailed personal description, as well as provide machine-readable links to, and information about, other people.</p> 
+<p> Technically speaking, FOAF "is an RDF/XML 'Semantic Web' vocabulary"<sup>[<a href="#fnotes">2</a>]</sup> with a suggested framework for expressing personal information, and which stands as its own resource, separate from any single document. It can also be included into a document written in another markup language as comments within that language, although this practice is not universally accepted. FOAF is extensible and potentially quite complex, and in addition to allowing an author to provide personal information, it allows others to provide information about an author, and vice versa.</p> 
+<p> FOAF has potential uses in a wide variety of situations, including but not limited to address books, contact databases, organizational directories, and the formation of virtual communities where the various members of a given social group can provide detailed information about themselves to each other, and to the world. Because it is so open-ended, the potential uses for FOAF could hardly be listed here. However, it does not have a defined way to represent any relationship other than "friend" (thus the name of the format), which could potentially limit its uses in situations where the participants in a FOAF network may not all agree on what it means to be a "friend."</p> 
+<p> Due to the way it is structured, FOAF makes it possible for other people to provide information about an author, whether or not said information is accurate. This opens the possibility of flawed personal information entering FOAF-space, and purging it with better information may be difficult or impossible. As of this writing, there is no apparent way to "mod" or rate the worth of a given piece of FOAF information, although such a mechanism would certainly help correct the potential problem of inaccuracies in FOAF-space.</p>
+
+<h2>Combining <abbr title="XHTML Friends Network">XFN</abbr> and FOAF</h2> 
+<p> In cases where an author already has an investment in FOAF, or wishes to provide the deeper level of information FOAF allows, it is still possible to incorporate XFN. An author in this case would simply create a FOAF property that represents the relationship between two people, and use XFN values within that property, pointing to the XFN specification for normative definitions of the values used, thus providing a measure of stability to the expression of human relationships other than "friend." This allows the FOAF information to be enriched by the finer-grained relationship information embodied by XFN values.</p>
+
+<ol id="fnotes"> 
+  <li> <sup>[1]</sup> <a href="http://rdfweb.org/topic/FAQ">The FOAF FAQ</a>, section 1.1.2: "What is FOAF?" </li> 
+  <li> <sup>[2]</sup> Ibid. </li> 
+</ol> 
+
+
+<div id="trail">
+<a href="index">And</a> [<a href="../">XFN</a>] [<a href="../../">GMPG</a>]
+</div>
+
+<div id="footer"><p id="copyright">
+Copyright &copy; 2003&#8211;2007 GMPG.  
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/2.0/">Some rights reserved</a>.</p>
+</div>
+
+</body>
+</html>
