@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if (gt IE 7) | (!IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<title>Mythaxis | Page 3</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://mythaxis.wordpress.com/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link rel="alternate" type="application/rss+xml" title="Mythaxis &raquo; Feed" href="https://mythaxis.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mythaxis &raquo; Comments Feed" href="https://mythaxis.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1612197847h&ver=5.7.1-alpha-50603"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydkt1uwjAMhV9oaVYQlXox7VmSxmSG/ClxKH37pd0K3YAO7aaynfM57ol5H1jnHYEjbjMLJmt0ifeh85YliwaGX1nVpfTCF5g0Xl9BH5VQiWvjpTDPaQOaLvqenTY3+sVI6PbokIZLcCOelTqXVELU5SQCP9Wv1baqucxo1DhBd2QGZRRx4IkGA080mqjED0BBjLgYfCamI6r/toiC0On0B975b2xT7aotV5joUmP30YVl4++Xug2CRoUFhQIM2CJbw3pUGqjgaY4ZwXkdmTZEyhAhJVa+FrNl9FHuul2YrzIPWc5P/8CFOzNBLqf+iFDeoOcENhhB8MjGRQMNnhXbiuve/UjY3giMa2iEcW1LqCdLrukIvdu3uqmbpm3adnf4BAMHPxs=?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&cssminify=yes' type='text/css' media='all' />
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"9652311","siteName":"Mythaxis","siteURL":"http:\/\/mythaxis.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/pilcrow","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fmythaxis.wordpress.com%2F2014%2F11%2F26%2Fwilliam-gibson-spook-country%2F&signup_flow=account","themeURL":"","xhrURL":"https:\/\/mythaxis.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"7b596771a2","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"96b5937609\" \/>","referer":"https:\/\/mythaxis.wordpress.com\/page\/3\/","canFollow":"1","feedID":"476453","statusMessage":"","customizeLink":"https:\/\/mythaxis.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmythaxis.wordpress.com%2Fpage%2F3%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Pilcrow","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fmythaxis.wordpress.com%2F2014%2F11%2F26%2Fwilliam-gibson-spook-country%2F&signup_flow=account\">Log in now.<\/a>","stats":"Stats"}};
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFjcEKwjAQRH/IbSgFiwfxW9J0DQnJbsxuqP17K1pQEDzN4b2ZMUsBx6RIaqKYwqIZRazHLsrBfNPMU0gITbBuAikEuvIPryaFUvm+7iyQS21GecJ4a1jXd3Q50F8JcvDVKn7K+9uU2ENJzQcSs3Cd7SzgkhV5DblcQLRNW++Sz/2xH4d+OI6n+AC9mlwH'></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mythaxis.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/Ev0r' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mythaxis" />
+<meta property="og:url" content="https://mythaxis.wordpress.com/" />
+<meta property="og:site_name" content="Mythaxis" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://mythaxis.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://mythaxis.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://mythaxis.wordpress.com/osd.xml" title="Mythaxis" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Mythaxis" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://mythaxis.wordpress.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" />	<style type="text/css">
+			#site-title {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		#nav {
+			margin-top: 18px;
+		}
+		</style>
+			<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/advertising-program-optout';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Do Not Sell My Personal Information';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"84","consentLanguage":"EN","locale":"en","vendorsAll":"A9Zr_6__7e_sf3_fv_9ujzGr_v_f9_2mccL7tv3huz_6_5fi_-xnd4u_VNXBVyPEl27YJCBto506iak2PVEqtaZ9jUmxlfZpRPZck09jb2zrAw9r8_uqfzJTNf_f__r_f________fv______________3_____v____7_4A","vendorsLegInterest":"A9YAkw1L4ALMSxwZJo0qhRAhCsJDoBQAUUIwtE1hAyuCnZXAR6ggYAITUBGBECDEFGLAIABAIAkIiAkAPBAIgCIBAACAFSAhAARMAgsALAwCAAUA0LECKAIQJCDI4KjlMCAiRaKCeSsASi72NMIQyiwAoFH9FRgIlSCBYGQA","ajaxNonce":"3057e59d50","modulePath":"https:\/\/s1.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/","_":{"title":"Privacy & Cookies","intro":"We, WordPress.com, and our advertising partners store and\/or access information on your device and also process personal data, like unique identifiers, browsing activity, and other standard information sent by your device including your IP address. This information is collected over time and used for personalised ads, ad measurement, audience insights, and product development specific to our ads program. If this sounds good to you, select \"I Agree!\" below.  Otherwise, you can get more information, customize your consent preferences, or decline consent by selecting \"Learn More\". Note that your preferences apply to all websites in the <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">WordPress.com network<\/a>, and if you change your mind in the future you can update your preferences anytime by visiting the Privacy link displayed under each ad. One last thing, our partners may process some of your data based on legitimate interests instead of consent but you can object to that by choosing \"Learn More\" and then disabling the Legitimate Interests toggle under any listed Purpose or Partner.","config":"Learn More","accept":"I Agree!","viewPartners":"View Partners","error":"We're sorry but an unexpected error occurred. Please try again later."}}</script>		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 0, 'ht': 0, 'tn': 'pilcrow', 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': true, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' }, 'privacySettings': { 'text': 'Privacy', 'onClick': function() { window.__tcfapi && window.__tcfapi( 'showUi' ) } } }, 'siteid': 8982, 'blogid': 9652311, 'js_hint': 'tcf2_test' };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="home blog paged paged-3 customizer-styles-applied two-column content-sidebar color-light highlander-enabled highlander-light">
+<div id="container" class="hfeed">
+	<div id="page" class="blog">
+		<div id="header">
+						<h1 id="site-title">
+				<span>
+					<a href="https://mythaxis.wordpress.com/" title="Mythaxis" rel="home">Mythaxis</a>
+				</span>
+			</h1>
+
+			<div id="nav" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul>
+<li ><a href="https://mythaxis.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="https://mythaxis.wordpress.com/about/">About</a></li>
+<li class="page_item page-item-298"><a href="https://mythaxis.wordpress.com/authors-links/">Authors&#8217; Links</a></li>
+<li class="page_item page-item-40"><a href="https://mythaxis.wordpress.com/mythaxis-magazine/">Mythaxis Magazine Index</a></li>
+<li class="page_item page-item-446"><a href="https://mythaxis.wordpress.com/one-line-movie-reviews/">One-Line Movie Reviews</a></li>
+</ul></div>
+			</div><!-- #nav -->
+
+			<div id="pic">
+				<a href="https://mythaxis.wordpress.com/" rel="home">
+										<img src="https://mythaxis.files.wordpress.com/2009/09/cropped-mythaxisbanner.jpg" width="770" height="200" alt="" />
+								</a>
+			</div><!-- #pic -->
+		</div><!-- #header -->
+
+		<div id="content-box">
+
+<div id="content-container">
+	<div id="content" role="main">
+
+	<div id="nav-above" class="navigation">
+	<div class="nav-previous"><a href="https://mythaxis.wordpress.com/page/4/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+	<div class="nav-next"><a href="https://mythaxis.wordpress.com/page/2/" >Newer posts <span class="meta-nav">&rarr;</span></a></div>
+</div><!-- #nav-above -->
+
+<div id="post-452" class="post-452 post type-post status-publish format-standard hentry category-review">
+	<div class="entry-meta">
+
+		26 November 2014 &middot; 2:39 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2014/11/26/william-gibson-spook-country/" rel="bookmark">William Gibson &#8211; Spook&nbsp;Country</a></h2>	<div class="entry entry-content">
+		<p><strong><em>I am, belatedly, adding a couple of previous reviews to this blog. I discovered that I had a number of reviews, mostly on Gibson and Iain M Banks, that I hadn&#8217;t published here.<br />
+</em></strong></p>
+<p><a href="https://mythaxis.files.wordpress.com/2014/11/image2.jpg"><img data-attachment-id="461" data-permalink="https://mythaxis.wordpress.com/2014/11/26/william-gibson-spook-country/image2/" data-orig-file="https://mythaxis.files.wordpress.com/2014/11/image2.jpg" data-orig-size="194,299" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Image2" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2014/11/image2.jpg?w=194" data-large-file="https://mythaxis.files.wordpress.com/2014/11/image2.jpg?w=194" src="https://mythaxis.files.wordpress.com/2014/11/image2.jpg?w=500" alt="Image2"   class="alignleft size-full wp-image-461" srcset="https://mythaxis.files.wordpress.com/2014/11/image2.jpg 194w, https://mythaxis.files.wordpress.com/2014/11/image2.jpg?w=97 97w" sizes="(max-width: 194px) 100vw, 194px" /></a>I didn&#8217;t realise how much I was enjoying Spook Country until I had finished it. As ever, I was captivated by the flow of words and ideas, and came to the end all too quickly.</p>
+<p>I try, when reviewing a book, not to say too much about the plot, and, particularly in this case, there are mysteries, gradually revealed, which add to the pleasure of the experience.</p>
+<p>William Gibson is known, primarily, for his science fiction. He has a substantial back catalogue of six novels and a volume of short stories in the sf genre, and one modern novel &#8211; Pattern Recognition.</p>
+<p>There is a connection between Pattern Recognition and Spook Country, other than the fact that they have a character in common. Both are set in the present day, and both have at their core some generally recognized tragedy &#8211; 9-11 and Iraq, respectively. These world events, though essential to the stories, are nevertheless tangential to them, just as they are to most of our lives.</p>
+<p>The starting point Gibson uses in Spook Country is one he often uses. A mysterious authority figure hires a specialist to find out something for him. The specialist eventually succeeds, and the result is a surprising revelation.</p>
+<p>It&#8217;s a good plot outline for a novel, and Gibson has played extensive variations on it. As with all good literature, you read it for the journey rather than the destination. Gibson&#8217;s prose is not everyone&#8217;s cup of tea, but it certainly is mine. To tell the truth, there seems less of Gibson&#8217;s trade mark &#8220;verb-light&#8221; writing in Spook Country than in previous books. To a large extent, it reads like a rather complex thriller. His characters are engaging, his insights fresh, nothing is obvious, his locations are convincing.</p>
+<blockquote><p>With Oshosi at his shoulder, Tito rounded the corner of the playground fence and ran toward East 16th. Oshosi wanted him out of the park and its calculable geometries of pursuit. A cab slid in front of him as he darted into the traffic on Union Square East; he went over its hood, meeting the astonished eyes of its driver as he hurtled past the windshield. The man slammed his horn and held it, and other horns woke reflexively, a sudden uneven blaring that mounted to a new crescendo as his three pursuers reached the stream of traffic. Tito looked back and saw one of them maneuvering between bumpers with queer, high steps, as if trying to avoid wetting his feet, while holding something aloft like a token. A badge.</p></blockquote>
+<p>In Pattern Recognition, Gibson used a single protagonist method of narration. The reader experienced the whole story from Cayce Pollard&#8217;s point of view. In Spook Country, he returns to the multiple viewpoint method he employed in most of his earlier novels.</p>
+<p>To an extent, I found this a harder book to get into than Pattern Recognition, partly because of the multiple viewpoints. I was never quite sure whose &#8220;side&#8221; I was on until near the end. I miss the sf technology William Gibson used to bring to his books, but I welcome the persona he used for sf being brought to a modern novel.</p>
+<blockquote><p>Milgrim was feeling better. He’d asked Brown for a Rize, in the little park, and Brown, engrossed in whatever he was doing on the laptop, had unzipped a pocket on its bag and handed Milgrim an entire unopened four-pack. Now, behind Brown’s upright screen, Milgrim popped a second Rize from its bubble and washed it down with the tea-water. He’d brought his book in from the car, thinking Brown would probably work on the laptop. Now he opened it.</p>
+<p>He found a favorite chapter: “An Elite Of Amoral Supermen”.</p>
+<p>“What’s that you keep reading?” asked Brown, unexpectedly, from the other side of the screen.</p>
+<p>“’An elite of amoral supermen’,” Milgrim replied, surprised to hear his own voice repeat the chapter-title he’d just read.</p>
+<p>“That’s what you all think,” said Brown, his attention elsewhere. “Liberals.”</p></blockquote>
+<p>In pre-publication interviews for Spook Country, Gibson has revealed more of his writing techniques than he has in the past. Most notable to me was his assertion that he starts the plot and characters and lets them roll, rather than plotting the book in detail first. He backs off if he spots himself forcing the action. This is not an uncommon technique among authors. Apparently, he had no idea what was in the plot-pivotal shipping container when he started the book. I guess we just have to be grateful that his subconscious writes a great story.</p>
+<p>My initial judgement was that Spook Country is not as engaging as Pattern Recognition was. Fewer cool concepts and less exotic writing. But, like great music, Gibson&#8217;s novels never seem to reveal their full richness at once, and my second reading proved more rewarding. But, importantly, it&#8217;s a William Gibson novel, and there aren&#8217;t enough of these in the world. </p>
+			<div id="atatags-26942-6069c9d9ebf32"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-26942-6069c9d9ebf32',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								onClick: function() { window.__tcfapi && window.__tcfapi( 'showUi' ); },
+							}
+						}
+					});
+				});
+			</script>			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2014/11/26/william-gibson-spook-country/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/review/" rel="category tag">review</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-438" class="post-438 post type-post status-publish format-standard hentry category-review">
+	<div class="entry-meta">
+
+		21 November 2014 &middot; 1:11 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2014/11/21/the-peripheral-by-william-gibson/" rel="bookmark">The Peripheral by William&nbsp;Gibson</a></h2>	<div class="entry entry-content">
+		<p><a href="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg"><img loading="lazy" data-attachment-id="439" data-permalink="https://mythaxis.wordpress.com/2014/11/21/the-peripheral-by-william-gibson/peripheral/" data-orig-file="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg" data-orig-size="200,303" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="peripheral" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg?w=198" data-large-file="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg?w=200" src="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg?w=198&#038;h=300" alt="peripheral" width="198" height="300" class="alignleft size-medium wp-image-439" srcset="https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg?w=198&amp;h=300 198w, https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg?w=99&amp;h=150 99w, https://mythaxis.files.wordpress.com/2014/11/peripheral.jpg 200w" sizes="(max-width: 198px) 100vw, 198px" /></a>In The Peripheral, William Gibson returns to truly speculative fiction, after three novels which he set in the world of today &#8211; a today which has, in a remarkably short time, become last year.</p>
+<p>It is my preference, before reading a book, never to read reviews, blurbs or other &#8216;spoilers&#8217;, which might blunt my enjoyment of it.</p>
+<p>As a result, in the first few chapters of The Peripheral, I was struggling for context. There is some joy, for a reader, in the sensation of wonder (&#8220;I wonder what&#8217;s going on&#8221; type of wonder) that William Gibson can evoke. Reading becomes, not a passive activity, but an adventure of discovery as you begin to grasp the thread, and, in this novel, the thread leads to somewhere particularly mysterious and gripping.</p>
+<p>In his 1980s first novel, Neuromancer, Gibson introduced, among other ideas, the vision of cyberspace, a concept some ten years or more ahead of its time. We tend to forget that most of the other concepts in that early book: eye implants, orbiting habitats for the rich, whole brain dumps, for example, have not yet come to market. </p>
+<p>In The Peripheral, Gibson weaves a story, interesting enough in itself, around lots of exciting concepts. There is nothing a science fiction fan likes better than a book full of cool concepts. Some of which, like 3d printing and haptics, are currently in their infancy, while others are still remote from the drawing board, to put it mildly. But we are never treated to an illuminating explanation of these marvels. It is Gibson&#8217;s style to show technology, even speculative technology, in practical use, leaving readers to comprehend for themselves the implications.</p>
+<p>The two main protagonists are an unlikely couple &#8211; Flynne, a girl from backwoods America, and Netherton, a London-based PR executive from the upper echelons of celebrity. They play out an enforced dance, their actions being controlled by a loose organization with immense power and money, an organization in conflict with a similar union of political and financial resources. Flynne is the stronger of the two &#8211; indeed most of the powerful characters are female; Gibson seems to favour strong women in his novels.</p>
+<p>The characters from near-future rural America &#8211; Flynne, her brother, some ex-military pals, and the townspeople nearby &#8211; are drawn into an elaborate alliance devised by Netherton&#8217;s colleagues &#8211; a campaign in which Flynne and her cohorts prove surprisingly capable, despite being suddenly immersed in technology beyond their experience.</p>
+<p>Other than Flynne and Netherton, most of the characters are not explored. Mostly you are expected to deduce personality from what they say and do, rather than sharing in their thoughts. This is a novel of ideas and action, not personalities.</p>
+<p>Also, because Gibson doesn&#8217;t waste many words on irrelevant description or expansive atmosphere creation, quite a lot happens in very few paragraphs, leading to a large number of very short chapters. There is a reason for this, in that a lot of simultaneous and parallel narratives are taking place throughout, but it made me a little uncomfortable, though this is my only niggle with this excellent novel.</p>
+<p>Above all, it is Gibson&#8217;s fertile imagination, his instinctive knowledge that people will use technology in ways the inventors couldn&#8217;t have predicted, and his effective use of language that make this book, like all his previous <em>oeuvre</em>, a fascinating read. I have already started reading it again, because I know I must have missed quite a lot on a first reading.</p>
+<p>Below:  The commemorative bookmark for William Gibson&#8217;s London promotional tour Nov 2014</p>
+<p><a href="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg"><img data-attachment-id="443" data-permalink="https://mythaxis.wordpress.com/2014/11/21/the-peripheral-by-william-gibson/peripheralbkmk/" data-orig-file="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg" data-orig-size="156,497" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="peripheralbkmk" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg?w=94" data-large-file="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg?w=156" src="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg?w=500" alt="peripheralbkmk"   class="aligncenter size-full wp-image-443" srcset="https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg 156w, https://mythaxis.files.wordpress.com/2014/11/peripheralbkmk.jpg?w=47 47w" sizes="(max-width: 156px) 100vw, 156px" /></a></p>
+<div id="atatags-370373-6069c9d9ed889">
+        <script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-370373-6069c9d9ed889', {
+                    sectionId: '370373',
+                    format: 'inread'
+                });
+            });
+        </script>
+    </div>			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2014/11/21/the-peripheral-by-william-gibson/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/review/" rel="category tag">review</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-430" class="post-430 post type-post status-publish format-standard hentry category-uncategorized">
+	<div class="entry-meta">
+
+		27 March 2014 &middot; 5:48 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2014/03/27/mythaxis-issue-14-is-out-today/" rel="bookmark">Mythaxis Issue 14 is out&nbsp;today</a></h2>	<div class="entry entry-content">
+		<p><a href="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg"><img loading="lazy" data-attachment-id="433" data-permalink="https://mythaxis.wordpress.com/2014/03/27/mythaxis-issue-14-is-out-today/mythmaker/" data-orig-file="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg" data-orig-size="165,581" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="mythmaker" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg?w=85" data-large-file="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg?w=165" src="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg?w=85&#038;h=300" alt="mythmaker" width="85" height="300" class="alignleft size-medium wp-image-433" srcset="https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg?w=85&amp;h=300 85w, https://mythaxis.files.wordpress.com/2014/03/mythmaker.jpg 165w" sizes="(max-width: 85px) 100vw, 85px" /></a>This is, as usual, a very varied issue. All the way from Les Sklaroff&#8217;s idiosyncratic Snoak City stories to Martin Clark&#8217;s Future Noir, by way of Jez Patterson&#8217;s thought-provoking dystopia, Liam Baldwin&#8217;s off-the-wall alternate history and Andrew Leon Hudson&#8217;s latest nightmare. Oh, and there&#8217;s one from your editor, too.</p>
+<p>I am increasingly encouraged by the amount of quality writing from new writers. Of course, not every submission we receive at Mythaxis is of the standard we like to publish, and I find myself repeatedly turning to the small group of authors who produce stories I enjoy. However, it&#8217;s worth noting that, so far, I have been able to reply with constructive comments even to all those contributors I&#8217;m not going to publish. So, if you have a great sf or fantasy tale to tell, be sure to send it in. At the very least, you will get a supportive e-mail from me.</p>
+<p><a href="http://mythaxis.co.uk" title="Mythaxis Magazine" target="_blank">Mythaxis Magazine</a></p>
+<p>Two important developments are introduced in this issue.</p>
+<ul>
+<li>Part of the delay in producing this issue is accounted for by the revision of all previous issues to make them easily readable on small screens. Currently, I have tested it with browsers on screens as small as 240 x 320. Please let me know if you spot any problems with your own particular pda / phone /tablet. The job was made harder because once I&#8217;d made it all work on tiny screens, Internet Explorer on desktop refused to co-operate, even though every other browser in the universe was happy with the new formats, so I had to change it all again to suit IE. You&#8217;re welcome, Microsoft.</li>
+<li>In the last two issues, we attempted to award prizes on the basis of voting forms from our readers. Despite there being many responses, the majority turned out to have been filled in by spambots. Further, despite our relatively large and growing audience, very few actual readers bothered to return their votes. So we will do what I should have done in the first place, and award a book prize to all contributors we publish, as from Issue 13.
+</li>
+</ul>
+<p>So, settle back with your platform of choice and rejoice in the glow of original new stories, never before published.</p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2014/03/27/mythaxis-issue-14-is-out-today/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-428" class="post-428 post type-post status-publish format-standard hentry category-uncategorized">
+	<div class="entry-meta">
+
+		18 September 2013 &middot; 11:58 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2013/09/18/mythaxis-issue-13-august-2013-is-released/" rel="bookmark">Mythaxis issue 13  &#8211; August 2013 &#8211; is&nbsp;released.</a></h2>	<div class="entry entry-content">
+		<p>Announcing the 13th issue of Mythaxis, Issue THIRTEEN! A few days late to be the August edition, but not so late it had to be the September edition.</p>
+<p>The master index of stories is now updated, in story sequence and author sequence, and can be seen on the <a href="https://mythaxis.wordpress.com/mythaxis-magazine/">Mythaxis</a><a href="https://mythaxis.wordpress.com/mythaxis-magazine/"> Magazine Index page</a>.</p>
+<p>The latest issue of the magazine is, as ever, <a href="http://mythaxis.co.uk">HERE.</a></p>
+<p>Readers are invited to vote for their favourite stories.</p>
+<p>Prizes for the March edition of Mythaxis were awarded (in no particular order) to Martin Clark, Tom Davies, Andrew Leon Hudson and Les Sklaroff.</p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2013/09/18/mythaxis-issue-13-august-2013-is-released/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-421" class="post-421 post type-post status-publish format-standard hentry category-uncategorized">
+	<div class="entry-meta">
+
+		9 March 2013 &middot; 6:19 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2013/03/09/flying-saucers-have-landed-by-desmond-leslie-and-george-adamski/" rel="bookmark">Flying Saucers Have Landed by Desmond Leslie and George&nbsp;Adamski</a></h2>	<div class="entry entry-content">
+		<p><a href="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg"><img loading="lazy" data-attachment-id="424" data-permalink="https://mythaxis.wordpress.com/2013/03/09/flying-saucers-have-landed-by-desmond-leslie-and-george-adamski/adamski1/" data-orig-file="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg" data-orig-size="1314,2092" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="adamski1" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=188" data-large-file="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=500" class="alignleft size-medium wp-image-424" style="padding:20px;" alt="adamski1" src="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=188&#038;h=300" width="188" height="300" srcset="https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=188&amp;h=300 188w, https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=376&amp;h=600 376w, https://mythaxis.files.wordpress.com/2013/03/adamski1.jpg?w=94&amp;h=150 94w" sizes="(max-width: 188px) 100vw, 188px" /></a></p>
+<p>I bought this sensational book in 1955, at the age of 13.</p>
+<p><a href="http://en.wikipedia.org/wiki/Desmond_Leslie" target="_blank">Desmond Leslie</a>, an Irish polymath, links many ancient writings to tales of flying saucers. I found this fascinating. Legends from Atlantis, through Central America, the Middle East, Tibet and India were drawn out to demonstrate alien influence and UFOs. The pyramids, the flood, Sanskrit scriptures, the Bible &#8211; nothing was left unmined for source material.</p>
+<p>Nevertheless, I was thus introduced early to a vast storehouse of ancient writings of which I was unaware at the time. And Leslie was nothing if not ingenious in his interpretation of arcane mysteries as the work of galaxy-touring aliens. Yet it was all good fun and it is eminently readable, if a little risible in places.</p>
+<p><a href="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg"><img loading="lazy" data-attachment-id="423" data-permalink="https://mythaxis.wordpress.com/2013/03/09/flying-saucers-have-landed-by-desmond-leslie-and-george-adamski/adamski3/" data-orig-file="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg" data-orig-size="647,1043" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="adamski3" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=186" data-large-file="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=500" class="alignleft size-medium wp-image-423" style="padding:20px;" alt="adamski3" src="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=186&#038;h=300" width="186" height="300" srcset="https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=186&amp;h=300 186w, https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=372&amp;h=600 372w, https://mythaxis.files.wordpress.com/2013/03/adamski3.jpg?w=93&amp;h=150 93w" sizes="(max-width: 186px) 100vw, 186px" /></a><br />
+George Adamski, in a totally separate section of the book, writes a whole lot of tosh about meeting aliens, supported by a number of photographs.He describes and sketches these alien visitors and their shoe-prints (which apparently carried a symbolic message).</p>
+<p>Adamski came to Edinburgh in 1959, and lectured in Central Hall about his acquaintanceship with Venusians, and about the propulsive mechanism of alien spacecraft. By the time that lecture took place, I had come to the conclusion that he was a fantasist about his meetings with men from Venus, but the photographs remained strong evidence for the existence of UFOs. They were almost certainly faked. Why do I say &#8220;almost certainly&#8221;? Because he had amassed a great many affidavits from professional photographers, photographic labs and witnesses who all asserted the photos were authentic.</p>
+<p>Though many years dead, Adamski still has an enthusiastic fanbase. His photos, I now regretfully admit, MUST have been clever forgeries.</p>
+<p>Nevertheless, he seemed a very nice man, with genuine concern for peace, harmony and the future of humanity.</p>
+<p>And, at the end of his lecture, he very kindly signed my battered paperback.</p>
+<p><a href="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg"><img loading="lazy" data-attachment-id="422" data-permalink="https://mythaxis.wordpress.com/2013/03/09/flying-saucers-have-landed-by-desmond-leslie-and-george-adamski/adamski2/" data-orig-file="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg" data-orig-size="1223,2111" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="adamski2" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=174" data-large-file="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=500" class="aligncenter size-medium wp-image-422" alt="adamski2" src="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=173&#038;h=300" width="173" height="300" srcset="https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=173&amp;h=300 173w, https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=346&amp;h=597 346w, https://mythaxis.files.wordpress.com/2013/03/adamski2.jpg?w=87&amp;h=150 87w" sizes="(max-width: 173px) 100vw, 173px" /></a></p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2013/03/09/flying-saucers-have-landed-by-desmond-leslie-and-george-adamski/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-416" class="post-416 post type-post status-publish format-standard hentry category-magazine">
+	<div class="entry-meta">
+
+		8 March 2013 &middot; 5:20 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2013/03/08/issue-12-of-mythaxis-magazine-is-now-out/" rel="bookmark">Issue 12 of Mythaxis Magazine is now&nbsp;out</a></h2>	<div class="entry entry-content">
+		<p><a href="http://mythaxis.co.uk"><img src="https://i2.wp.com/mythaxis.co.uk/may2010.jpg" width="600" height="175" class="alignnone" /></a></p>
+<p>As promised, from now on, prizes will be awarded to the most popular stories in each edition of Mythaxis.</p>
+<p>Today&#8217;s edition contains stories from regular contributors and from Tom Sheehan, a new author to Mythaxis, though he already has a distinguished portfolio of published work.</p>
+<p>There are two strange contributions from Les Sklaroff and one from Peter Morrison, a couple of thrillers from Martin Clark, creepy little tales from Tom Davies and Andrew Leon Hudson, and a grim game-related cyberpunkish offering from Twilite Minotaur. There&#8217;s even a little sting in the tale from yours truly.</p>
+<p><a href="http://mythaxis.co.uk">READ IT HERE</a></p>
+<p>Enjoy&#8230; AND VOTE!</p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2013/03/08/issue-12-of-mythaxis-magazine-is-now-out/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/magazine/" rel="category tag">magazine</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-410" class="post-410 post type-post status-publish format-standard hentry category-magazine">
+	<div class="entry-meta">
+
+		26 January 2013 &middot; 1:04 am	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2013/01/26/short-story-awards/" rel="bookmark">Short Story Awards</a></h2>	<div class="entry entry-content">
+		<p>From now on, the editors at Mythaxis will be awarding prizes to the three best short stories in every edition, as voted by the editing team and readers. In keeping with the literary nature of our publication, these prizes will be in the form of books rather than money.</p>
+<p>Let me be more precise. I have a large collection of books, mostly science fiction and fantasy, many very old in sf terms. Often, these books are no longer readily available, for various reasons (out of print, under-appreciated, magazine editions).</p>
+<p>On <a href="http://mythaxis.co.uk/prizes.htm">this page</a>, I have posted descriptions of ten books. If you win, you get to choose your prize from the books available.</p>
+<p>So. This is a call for short stories for issue 12 of Mythaxis.</p>
+<p>Closing date? Well, editors always need the text as soon as possible, but we can&#8217;t guarantee to include anything  we receive after 20 February. </p>
+<p><a href="http://mythaxis.co.uk/submission.htm">Submission Rules here</a><br />
+         <a href="http://mythaxis.co.uk/policy.htm">Editorial Policy here</a></p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2013/01/26/short-story-awards/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/magazine/" rel="category tag">magazine</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-402" class="post-402 post type-post status-publish format-standard hentry category-uncategorized">
+	<div class="entry-meta">
+
+		22 August 2012 &middot; 10:07 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2012/08/22/issue-11-of-mythaxis-magazine-is-now-out/" rel="bookmark">Issue 11 of Mythaxis Magazine is now&nbsp;out</a></h2>	<div class="entry entry-content">
+		<p>The August 2012 issue of <a href="http://mythaxis.co.uk" title="Mythaxis Magazine" target="_blank">Mythaxis Magazine</a> is now out.</p>
+<p>This, the eleventh issue of the magazine, contains the greatest number of stories we have so far published in a single issue.</p>
+<p>Part of this is due to me publishing five of Les Sklaroff&#8217;s short pieces in one issue. They are light, short, and entertaining. Do not miss them..</p>
+<p>Andrew Leon Hudson presents us with a headache, or, should I say &#8216;Nightmare&#8217;?</p>
+<p>Martin Clark also has two stories in this edition &#8211; quite different stories, both excellent.</p>
+<p>It&#8217;s a while since we were treated to one of Tom Davies&#8217; Pasha Rapley stories, so hold on to your hats for this one.</p>
+<p>New contributor John Frochio gives us this 300 word story which encompasses a subtle plot.</p>
+<p>I&#8217;m also publishing another in the Emigration series from Liam Baldwin.</p>
+<p>An irritation has arisen with Internet Explorer, which was causing recent index pages to display wrongly. I believe I have fixed it. Please let me know if there&#8217;s a problem on any platform. </p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2012/08/22/issue-11-of-mythaxis-magazine-is-now-out/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-378" class="post-378 post type-post status-publish format-standard hentry category-review">
+	<div class="entry-meta">
+
+		28 February 2012 &middot; 1:15 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2012/02/28/peter-pan-in-kensington-gardens/" rel="bookmark">Peter Pan in Kensington&nbsp;Gardens</a></h2>	<div class="entry entry-content">
+		<p><a href="https://mythaxis.files.wordpress.com/2012/02/609.jpg"><img data-attachment-id="388" data-permalink="https://mythaxis.wordpress.com/2012/02/28/peter-pan-in-kensington-gardens/attachment/609/" data-orig-file="https://mythaxis.files.wordpress.com/2012/02/609.jpg" data-orig-size="480,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="609" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2012/02/609.jpg?w=225" data-large-file="https://mythaxis.files.wordpress.com/2012/02/609.jpg?w=480" src="https://mythaxis.files.wordpress.com/2012/02/609.jpg?w=500" alt="" title="609"   class="aligncenter size-full wp-image-388" srcset="https://mythaxis.files.wordpress.com/2012/02/609.jpg 480w, https://mythaxis.files.wordpress.com/2012/02/609.jpg?w=113 113w, https://mythaxis.files.wordpress.com/2012/02/609.jpg?w=225 225w" sizes="(max-width: 480px) 100vw, 480px" /></a></p>
+<p>Though my family is related to J M Barrie, and I have read much of his work, it was only recently that I added a Barrie book to my library. It is the 1912 edition of <em><strong>Peter Pan in Kensington Gardens</strong></em>, illustrated by Arthur Rackham.</p>
+<p>I was going to make a grand presentation of this on Mythaxis, but <a href="http://www.gutenberg.org/files/26998/26998-h/26998-h.htm" target="blank">there is already a beautiful representation of an earlier edition of the book, with Rackham&#8217;s illustrations, on Gutenberg</a>. My 1912 edition actually features more illustrations than the Gutenberg version and is reckoned to be the &#8216;best&#8217;, or, at any rate, most complete, edition.</p>
+<p>At first sight, the prose is somewhat syrupy, as though intended for childish consumption, but there is usually a hidden agenda, readable more readily by an adult eye.</p>
+<blockquote><p><b>You always want to have a yacht to sail on the Round Pond, and in the end your uncle gives you one; and to carry it to the pond the first day is splendid, also to talk about it to boys who have no uncle is splendid, but soon you like to leave it at home. For the sweetest craft that slips her moorings in the Round Pond is what is called a stick-boat, because she is rather like a stick until she is in the water and you are holding the string. Then as you walk round, pulling her, you see little men running about her deck, and sails rise magically and catch the breeze, and you put in on dirty nights at snug harbours which are unknown to the lordly yachts. Night passes in a twink, and again your rakish craft noses for the wind, whales spout, you glide over buried cities, and have brushes with pirates, and cast anchor on coral isles. </b> </p></blockquote>
+<p>Nevertheless, there <b>is</b> an uncomfortably child-centred air about some of Barrie&#8217;s writing, as though, like his most famous creation, Peter Pan, he is reluctant to grow up. Yet this book is shot through with insights that provoke wry smiles and pangs of nostalgia throughout.</p>
+<p>Barrie&#8217;s inventiveness is also to the fore in this book, with anthropomorphic animals and birds, fairies and interesting human characters. But the chief delights, for me, are the general quality of the book and its intact dustcover, the Rackham illustrations, the generous quarto size of it, its weight, the meaty, substantial paper, and just the general feel of a century-old book in great condition.</p>
+<p><a href="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg"><img data-attachment-id="393" data-permalink="https://mythaxis.wordpress.com/2012/02/28/peter-pan-in-kensington-gardens/peterpan1/" data-orig-file="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg" data-orig-size="427,643" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="peterpan1" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg?w=199" data-large-file="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg?w=427" src="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg?w=500" alt="" title="peterpan1"   class="aligncenter size-full wp-image-393" srcset="https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg 427w, https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg?w=100 100w, https://mythaxis.files.wordpress.com/2012/02/peterpan1.jpg?w=199 199w" sizes="(max-width: 427px) 100vw, 427px" /></a></p>
+<p>Strangely, and entirely by coincidence, I now live within a couple of miles of Barrie&#8217;s home in Surrey, and the woods and lakes in which he delighted are on our doorstep. It is not difficult to conjure up the atmosphere of early 20th century England, basking in nostalgia for an age I never knew!</p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2012/02/28/peter-pan-in-kensington-gardens/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/review/" rel="category tag">review</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+
+<div id="post-367" class="post-367 post type-post status-publish format-standard hentry category-magazine">
+	<div class="entry-meta">
+
+		12 December 2011 &middot; 4:21 pm	</div><!-- .entry-meta -->
+
+	<h2 class="entry-title"><a href="https://mythaxis.wordpress.com/2011/12/12/mythaxis-issue-10-is-out-today/" rel="bookmark">Mythaxis Issue 10 is out&nbsp;today</a></h2>	<div class="entry entry-content">
+		<p><a href="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg"><img loading="lazy" data-attachment-id="369" data-permalink="https://mythaxis.wordpress.com/2011/12/12/mythaxis-issue-10-is-out-today/banner1/" data-orig-file="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg" data-orig-size="691,162" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="banner1" data-image-description="" data-medium-file="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=300" data-large-file="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=500" src="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=300&#038;h=70" alt="" title="banner1" width="300" height="70" class="alignnone size-medium wp-image-369" srcset="https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=300&amp;h=70 300w, https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=597&amp;h=140 597w, https://mythaxis.files.wordpress.com/2011/12/banner1.jpg?w=150&amp;h=35 150w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://mythaxis.co.uk/indexissuev10.htm" title="December 2011 edition of Mythaxis out today." target="_blank">The December 2011 Mythaxis is out today.</a></p>
+<p>With this issue, its tenth, Mythaxis has<br />
+moved into double figures. And a fine edition it is, too.</p>
+<p>We have another great story, a haunting one at that, from Les Sklaroff.</p>
+<p>Martin Clark contributes a sequel &#8211; &#8220;All Avenues Closed&#8221; to the story he<br />
+gave us in issue 9 &#8211; &#8220;Let Every Voice be Still&#8221;. </p>
+<p>Matthew Kirshenblatt delivers an atmospheric little story based on a<br />
+missing chapter.</p>
+<p>Tom Davies contributes a weird little nightmare.</p>
+<p>My own modest effort about an unusual NIMBY situation now seems rather<br />
+bland in comparison to the fevered imaginations of our other authors.</p>
+<p>The issue is rounded off with two unconnected and separately contributed<br />
+stories of personal development from Andrew Leon Hudson and Jonathan<br />
+Joseph. When you read them you will understand why I felt compelled to<br />
+head them with fragments from Hieronymous Bosch.</p>
+<p>If you&#8217;re thirsty for more, don&#8217;t forget the <a href="http://mythaxis.co.uk/authors.htm" target="_blank">Authors&#8217; Links</a> page.</p>
+			</div><!-- .entry-content -->
+	
+	<div class="entry-links">
+		<p class="comment-number"><a href="https://mythaxis.wordpress.com/2011/12/12/mythaxis-issue-10-is-out-today/#respond">Leave a comment</a></p>
+
+					<p class="entry-categories tagged">Filed under <a href="https://mythaxis.wordpress.com/category/magazine/" rel="category tag">magazine</a></p>
+			<p class="entry-tags tagged"></p>
+			</div><!-- .entry-links -->
+
+</div><!-- #post-## -->
+
+
+<div id="nav-below" class="navigation">
+	<div class="nav-previous"><a href="https://mythaxis.wordpress.com/page/4/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+	<div class="nav-next"><a href="https://mythaxis.wordpress.com/page/2/" >Newer posts <span class="meta-nav">&rarr;</span></a></div>
+</div><!-- #nav-below -->
+
+	</div><!-- #content -->
+</div><!-- #content-container -->
+
+
+	<div id="sidebar" class="widget-area" role="complementary">
+				<ul class="xoxo sidebar-list">
+
+			<li id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://mythaxis.wordpress.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="text-3" class="widget widget_text">			<div class="textwidget"><a href="http://mythaxis.co.uk" target="_blank" rel="noopener"><b>Mythaxis Magazine<br><i>Click here for the latest issue of the magazine.</i></b></a> </div>
+		</li><li id="linkcat-955" class="widget widget_links"><h3 class="widget-title">Stories</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.mythaxis.co.uk/2issue3.htm" target="_blank">&quot;1002nd Night, The&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issuev14.htm" target="_blank">&quot;A Closer Look at Greeming &amp; Trulph&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev15.htm" target="_blank">&quot;A Day Like Any Other&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev16.htm" target="_blank">&quot;A Messenger, Deceased&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/11issuev18.htm" target="_blank">&quot;A New World Order&quot; by John A. Frochio</a></li>
+<li><a href="http://mythaxis.co.uk/11issuev13.htm" target="_blank">&quot;A Room with a Vu&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev16.htm" target="_blank">&quot;A Small Intrusion&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issuev21.htm" target="_blank">&quot;A Tale of Salt and Oak&quot; by Voss McVeigh</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issuev17.htm" target="_blank">&quot;A Vacant Chair Beside the Hearth&quot; by John A. Frochio</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev15.htm" target="_blank">&quot;Adalet&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/11issuev20.htm" target="_blank">&quot;Aldous Effect, The&quot; by Martin M, Clark</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev10.htm" target="_blank">&quot;All Avenues Closed&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue2.htm" target="_blank">&quot;American Book of the Dead, The&quot; by Chris Lites</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev12.htm" target="_blank">&quot;An Acquisition&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issuev14.htm" target="_blank">&quot;An Excursion to Platport&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/4issue8.htm" target="_blank">&quot;Android 0-CLE5&quot; by Lester Linesmith</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issuev17.htm" rel="friend" target="_blank">&quot;Another Change of Plan&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev10.htm" target="_blank">&quot;Appropriate Technology&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issuev19.htm" target="_blank">&quot;April the Last&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issuev21.htm" target="_blank">&quot;Are Friends Eclectic&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev18.htm" target="_blank">&quot;Atacrast&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/9issuev14.htm">&quot;Aye-Nay&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev16.htm" target="_blank">&quot;Baker&#039;s Dozen&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/12issuev11.htm" target="_blank">&quot;Beyond the Sky&quot; by Liam Baldwin</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue3.htm" target="_blank">&quot;Blazon&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue7.htm" target="_blank">&quot;Blood and Souls&quot; by Peter Morrison</a></li>
+<li><a href="http://www.mythaxis.co.uk/10issuev21.htm" target="_blank">&quot;Blood Poisoning&quot; by D. S. White</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issuev17.htm" target="_blank">&quot;Bodyfellas&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/2issue9.htm" rel="colleague" target="_blank">&quot;Boffin&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev16.htm" target="_blank">&quot;Border Incident&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue4.htm" target="_blank">&quot;By a Lily&#039;s Petal&quot; by Ian Thomas</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue4.htm" target="_blank">&quot;Central Casting&quot; by Chris Penycate</a></li>
+<li><a href="http://www.mythaxis.co.uk/14issuev21.htm" target="_blank">&quot;Christmas Carole&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/15issuev21.htm" target="_blank">&quot;Comics II&quot; by Liam Baldwin</a></li>
+<li><a href="http://mythaxis.co.uk/12issuev20.htm" target="_blank">&quot;Comics&quot; by Liam Baldwin</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issuev21.htm" target="_blank">&quot;Commedia del&#039;l Venezia&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue3.htm" target="_blank">&quot;Conquest of the Earth by the Moon, The&quot; by Washington Irving</a></li>
+<li><a href="http://mythaxis.co.uk/7issue8.htm" target="_blank">&quot;Conspiracy Theory&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issuev17.htm" target="_blank">&quot;Cospauper, The&quot; by Christian Miller</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue5.htm" target="_blank">&quot;Curse of Yig, The&quot; by H.P.Lovecraft and Zealia Bishop</a></li>
+<li><a href="http://mythaxis.co.uk/11issuev12.htm" target="_blank">&quot;Day Trip&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/9issuev19.htm" target="_blank">&quot;Death plus One&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev10.htm" target="_blank">&quot;Dietrich and the Baby&quot; by Tom Davies</a></li>
+<li><a href="http://www.mythaxis.co.uk/10issuev17.htm" target="_blank">&quot;Diplomacy&quot; by Liam Baldwin</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev18.htm" target="_blank">&quot;Distant and Remote&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev16.htm" target="_blank">&quot;Don Juans &amp; Dragoons&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue7.htm" target="_blank">&quot;Door with No Key, The&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev20.htm" target="_blank">&quot;Drill Hall Incident, The&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev11.htm" rel="colleague" target="_blank">&quot;Dundro Fappit&#039;s Mistake&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue2.htm" target="_blank">&quot;Eat, Monster Blue Bottle&quot; by Belinda A. Taylor</a></li>
+<li><a href="http://www.mythaxis.co.uk/11issuev21.htm" target="_blank">&quot;Eavesdropping at Quoils&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue2.htm" target="_blank">&quot;Emigration&quot; by Liam Baldwin</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue5.htm" target="_blank">&quot;Enormous Gun, The&quot; by Damon Harkness</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev20.htm" target="_blank">&quot;Equus Magna&quot; by John A. Frochio</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue5.htm" target="_blank">&quot;Extrusion Project, The&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev18.htm" target="_blank">&quot;Falling Back&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev12.htm" target="_blank">&quot;Famous Ashfordians No. 1 &#8211; James Goodacre&quot; by Tom Davies</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev13.htm" target="_blank">&quot;Famous Ashfordians No. 2 – Samuel Ohms&quot; by Tom Davies</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev13.htm" target="_blank">&quot;Famous Ashfordians No. 3 &#8211; The Marvellous Marjoram Mouse&quot; by Tom Davies</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev18.htm" target="_blank">&quot;Farny&#039;s Place&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/8issue9.htm" rel="colleague" target="_blank">&quot;Fiat Lux&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/10issuev19.htm" target="_blank">&quot;Field Support&quot; by Liam Baldwin</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issuev14.htm">&quot;First In, Last Out&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev10.htm" target="_blank">&quot;Flesh Doubt&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev11.htm" rel="colleague" target="_blank">&quot;Foroquont&#039;s Maze&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev20.htm" target="_blank">&quot;Fountain of Youth, The&quot; by Steve Slavin</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue7.htm" target="_blank">&quot;From an Evening at the Cinema&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://mythaxis.co.uk/11issuev11.htm" target="_blank">&quot;Ghosts and Aliens&quot; by John A. Frochio</a></li>
+<li><a href="http://mythaxis.co.uk/5issue9.htm" rel="colleague" target="_blank">&quot;Ghosts of Cloud City, The&quot; by Twilite Minotaur</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev18.htm" target="_blank">&quot;God Blinked&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issuev21.htm" target="_blank">&quot;Good Vibrations&quot; by Steve Slavin</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issuev19.htm" target="_blank">&quot;Grave Misfortune&quot; by Stephen Heuser</a></li>
+<li><a href="http://mythaxis.co.uk/3issue8.htm" target="_blank">&quot;Great Divide, The&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue1.htm" target="_blank">&quot;Green Bullet&quot; by Melanie Manners</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue1.htm" target="_blank">&quot;Hector&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev18.htm" target="_blank">&quot;Helsinki&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue5.htm" target="_blank">&quot;His Fly Undid Him&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue4.htm" target="_blank">&quot;Hong Kong&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev11.htm" rel="colleague" target="_blank">&quot;Hoolocks and Hellions&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issue7.htm" target="_blank">&quot;How Manuel Left the Mire&quot; by James Branch Cabell</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev12.htm" target="_blank">&quot;I Am What I Am Not&quot; by Tom Sheehan</a></li>
+<li><a href="http://www.mythaxis.co.uk/11issuev17.htm" target="_blank">&quot;Iceweb (Interactive Fiction)&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/8issuev21.htm" target="_blank">&quot;Ilysveil: Twin Dawn Rising&quot; by J. H. Zech</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issuev19.htm" target="_blank">&quot;Ilysveil: You Can Only Observe&quot; by J. H. Zech</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issue4.htm" target="_blank">&quot;Ingenious Patriot, The&quot; by Ambrose Bierce</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issuev19.htm" target="_blank">&quot;Interlude in Green&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev18.htm" target="_blank">&quot;Last Day of the Mute Ant, The&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/3issue9.htm" target="_blank">&quot;Let Every Voice be Still&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev13.htm" target="_blank">&quot;Lies and Other Essentials&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue7.htm" target="_blank">&quot;Living on Reputation&quot; by Alistair Bain</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue1.htm" target="_blank">&quot;Log of the Mustang Sally &#8211; Turner&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev15.htm" target="_blank">&quot;Log of the Mustang Sally – Tazio&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/10issuev20.htm" target="_blank">&quot;Lost City&quot; by D. S. White</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issuev14.htm" target="_blank">&quot;Lost World of WW1, The&quot; by Liam Baldwin</a></li>
+<li><a href="http://mythaxis.co.uk/10issuev18.htm" target="_blank">&quot;Madras Point&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/9issuev17.htm" target="_blank">&quot;Magdalena and the Dragon&quot; by Peter Morrison</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev15.htm" target="_blank">&quot;Man with Bronze Hair, The&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/13issuev21.htm" target="_blank">&quot;Maximum Law &#8211; Christmas Party&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issuev21.htm" target="_blank">&quot;Maximum Law&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/16issuev21.htm" target="_blank">&quot;Melkart The Herdsman&quot; by Mark Mellon</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev11.htm" target="_blank">&quot;Mindbleed&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issuev21.htm" target="_blank">&quot;Mirror, Mirror&quot; by Patrick Boylan</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev14.htm" target="_blank">&quot;Mount Elysium &quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/8issuev19.htm" target="_blank">&quot;Mount Elysium Revisited&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev15.htm" target="_blank">&quot;Must Be in the Fifties&quot; by Andrew Leon Hunter</a></li>
+<li><a href="http://mythaxis.co.uk/13issuev11.htm" target="_blank">&quot;Natural Selection, A&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://mythaxis.co.uk/1issue6.htm" target="_blank">&quot;Neurofinancer&quot; by Twilite Minotaur</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issue2.htm" target="_blank">&quot;New Frankfurt&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue5.htm" target="_blank">&quot;No Survivor&quot; by Peter Morrison</a></li>
+<li><a href="http://mythaxis.co.uk/10issuev12.htm" target="_blank">&quot;Not Who We Are&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/12issuev21.htm" target="_blank">&quot;Of a Kind&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev10.htm" target="_blank">&quot;Oh, Dreary Me&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://mythaxis.co.uk/6issue8.htm" target="_blank">&quot;Outpatients&quot; by Jonathan Joseph</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev20.htm" target="_blank">&quot;Padratheleon&#039;s Ghosts&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev15.htm" target="_blank">&quot;Plains of Abyssinia, The&quot; by Sean Crawford</a></li>
+<li><a href="http://mythaxis.co.uk/planet.htm">&quot;Planet Stories Fiasco, The&quot; by Liam Baldwin</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev16.htm" target="_blank">&quot;Playing Around with Arthur&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/7issue9.htm" target="_blank">&quot;Postcards&quot; by Annabel Banks</a></li>
+<li><a href="http://www.mythaxis.co.uk/9issuev21.htm" target="_blank">&quot;Pranswat Passes Through&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev10.htm" target="_blank">&quot;Preference for Cheese, A&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue7.htm" target="_blank">&quot;Price of Youth, The&quot; by Moon Bhatt</a></li>
+<li><a href="http://mythaxis.co.uk/5issue8.htm" target="_blank">&quot;Prophets Speak, The&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev16.htm" target="_blank">&quot;Proto-J&quot; by Christian Miller</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev13.htm" target="_blank">&quot;Prutt&#039;s Game by Thyles Dudoriac. Fissile, Sprent &amp; Co. 2013 – A Review&quot; by Don B Levitt</a></li>
+<li><a href="http://mythaxis.co.uk/7issuev12.htm" target="_blank">&quot;Quintet for One&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue2.htm" target="_blank">&quot;Red Fever&quot; by Peter Morrison</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issue1.htm" target="_blank">&quot;Remarkable Case of Davidson&#039;s Eyes, The&quot; by H G Wells</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issuev19.htm" target="_blank">&quot;Reunion&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issue7.htm" target="_blank">&quot;Ringside&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/8issuev17.htm" target="_blank">&quot;Robot Rover&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev11.htm" target="_blank">&quot;Sailing to Tarshish&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/6issuev13.htm" target="_blank">&quot;Sibyl&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue6.htm" target="_blank">&quot;Skylark of Space, The&quot; by E E (Doc) Smith</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev15.htm" target="_blank">&quot;Slippage&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev11.htm" rel="colleague" target="_blank">&quot;Smile of Paeony 3rdfield, The&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev13.htm" target="_blank">&quot;Smolehive’s Anakalyptoscope&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/1issue2.htm" target="_blank">&quot;Some Future Date&quot; by Callum Graham</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev11.htm" target="_blank">&quot;Something Quirky&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev18.htm" target="_blank">&quot;Sound &amp; Fury&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/2issue8.htm" target="_blank">&quot;Spawn&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/6issue9.htm" rel="me" target="_blank">&quot;Special Delivery&quot; by Gil Williamson</a></li>
+<li><a href="http://mythaxis.co.uk/2issuev12.htm" target="_blank">&quot;Starbat&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev20.htm" target="_blank">&quot;Sticky Dreams&quot; by Mary Hiers</a></li>
+<li><a href="http://mythaxis.co.uk/4issue9.htm" target="_blank">&quot;Stop 17&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issue1.htm" target="_blank">&quot;Streaming Video&quot; by Ian Thomas</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue4.htm" target="_blank">&quot;Strong Emergence&quot; by Jonathan Joseph</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue3.htm" target="_blank">&quot;Summoning, The&quot; by Chris Penycate</a></li>
+<li><a href="http://www.mythaxis.co.uk/7issuev17.htm" target="_blank">&quot;Supply &amp; Demand&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue4.htm" target="_blank">&quot;Survivor&quot; by Peter Morrison</a></li>
+<li><a href="http://mythaxis.co.uk/10issuev11.htm" target="_blank">&quot;Tale of God&#039;s Flotsam, The&quot; by Tom Davies</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev13.htm" target="_blank">&quot;Tale of the Bone Janitor, The&quot; by Tom Davies</a></li>
+<li><a href="http://www.mythaxis.co.uk/2issue6.htm" target="_blank">&quot;Tale of the Ten Teacups, The&quot; by Tom Davies</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev12.htm" target="_blank">&quot;Tear Drops&quot; by Andrew Leon Hudson</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev12.htm" target="_blank">&quot;Temple of the Inevitable, The&quot; by Peter Morrison</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev12.htm" target="_blank">&quot;Terminus Machina: Bailout&quot; by Twilite Minotaur</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev16.htm" target="_blank">&quot;Thagdar the Immutable&quot; by Les Sklaroff</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issuev19.htm" target="_blank">&quot;Timed Out&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev20.htm" target="_blank">&quot;To Erm is Human&quot; by Jez Patterson</a></li>
+<li><a href="http://mythaxis.co.uk/5issuev13.htm" target="_blank">&quot;To Serve&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://mythaxis.co.uk/10issuev13.htm" target="_blank">&quot;Toyscape&quot; by John A. Frochio</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue1.htm" target="_blank">&quot;Troubles With Word&quot; by Matthew Kirshenblatt</a></li>
+<li><a href="http://mythaxis.co.uk/4issuev20.htm" target="_blank">&quot;Trumpets of Jericho, The&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/8issuev14.htm">&quot;Truth and Other Upgrades&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev20.htm" target="_blank">&quot;Uncle Glossog&#039;s Talent Parade and Other Matters&quot; by Les Sklaroff</a></li>
+<li><a href="http://mythaxis.co.uk/9issuev11.htm" target="_blank">&quot;Unclear Conscience&quot; by Martin M. Clark</a></li>
+<li><a href="http://mythaxis.co.uk/12issuev18.htm" target="_blank">&quot;Under Martian Moonlight&quot; by Liam Baldwin</a></li>
+<li><a href="http://mythaxis.co.uk/3issuev15.htm" target="_blank">&quot;Uneasy Money&quot; by Martin M. Clark</a></li>
+<li><a href="http://www.mythaxis.co.uk/6issue2.htm" target="_blank">&quot;Voyage to the Moon&quot; by Lucian (Loukianos)</a></li>
+<li><a href="http://mythaxis.co.uk/8issuev10.htm" target="_blank">&quot;Warped&quot; by Jonathan Joseph</a></li>
+<li><a href="http://www.mythaxis.co.uk/3issue6.htm" target="_blank">&quot;Warriston&#039;s Disease&quot; by Gil Williamson</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issue3.htm" target="_blank">&quot;When Gretchen Met Sally&quot; by Peter Morrison</a></li>
+<li><a href="http://www.mythaxis.co.uk/5issuev17.htm" target="_blank">&quot;Whistle, Hum, Parp&quot; by Jez Patterson</a></li>
+<li><a href="http://www.mythaxis.co.uk/4issuev14.htm" target="_blank">&quot;Yesterday&#039;s Spoons&quot; by Les Sklaroff</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-25755987" class="widget widget_links"><h3 class="widget-title">Superior Sites</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.amazonsystems.co.uk" rel="me" target="_blank">Amazon Systems</a></li>
+
+	</ul>
+</li>
+<li id="archives-3" class="widget widget_archive"><h3 class="widget-title">Archives</h3>
+			<ul>
+					<li><a href='https://mythaxis.wordpress.com/2018/02/'>February 2018</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2017/12/'>December 2017</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2017/11/'>November 2017</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2017/08/'>August 2017</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2016/02/'>February 2016</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2015/01/'>January 2015</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2014/11/'>November 2014</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2014/03/'>March 2014</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2013/09/'>September 2013</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2013/03/'>March 2013</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2013/01/'>January 2013</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2012/08/'>August 2012</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2012/02/'>February 2012</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2011/12/'>December 2011</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2011/10/'>October 2011</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2011/07/'>July 2011</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2011/03/'>March 2011</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2011/02/'>February 2011</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/11/'>November 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/09/'>September 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/08/'>August 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/06/'>June 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/04/'>April 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/03/'>March 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2010/02/'>February 2010</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2009/11/'>November 2009</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2009/10/'>October 2009</a></li>
+	<li><a href='https://mythaxis.wordpress.com/2009/09/'>September 2009</a></li>
+			</ul>
+
+			</li><li id="rss_links-3" class="widget widget_rss_links"><h3 class="widget-title">Mythaxis</h3><p class="size-small"><a class="feed-image-link" href="https://mythaxis.wordpress.com/feed/" title="Subscribe to Posts"><img src="https://mythaxis.wordpress.com/i/rss/red-small.png?m=1391188133h" alt="RSS Feed" /></a>&nbsp;<a href="https://mythaxis.wordpress.com/feed/" title="Subscribe to Posts">RSS - Posts</a></p><p class="size-small"><a class="feed-image-link" href="https://mythaxis.wordpress.com/comments/feed/" title="Subscribe to Comments"><img src="https://mythaxis.wordpress.com/i/rss/red-small.png?m=1391188133h" alt="RSS Feed" /></a>&nbsp;<a href="https://mythaxis.wordpress.com/comments/feed/" title="Subscribe to Comments">RSS - Comments</a></p>
+</li>			<div id="atatags-286348-6069c9da04762"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-286348-6069c9da04762',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								onClick: function() { window.__tcfapi && window.__tcfapi( 'showUi' ); },
+							}
+						}
+					});
+				});
+			</script>		</ul>
+	</div><!-- #sidebar .widget-area -->
+
+	
+		</div><!-- #content-box -->
+
+		<div id="footer" role="contentinfo">
+			<div id="colophon">
+
+				
+				<div id="site-info">
+					<a href="https://mythaxis.wordpress.com/" title="Mythaxis" rel="home">Mythaxis</a> &middot; 				</div><!-- #site-info -->
+
+				<div id="site-generator">
+					<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a>				</div><!-- #site-generator -->
+
+			</div><!-- #colophon -->
+		</div><!-- #footer -->
+	</div><!-- #page .blog -->
+</div><!-- #container -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22content%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fmythaxis.wordpress.com%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22scroll%22%2C%22wrapper%22%3Atrue%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3A%22page%22%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Older%20posts%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2212.12.11%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A3%2C%22history%22%3A%7B%22host%22%3A%22mythaxis.wordpress.com%22%2C%22path%22%3A%22%5C%2Fpage%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22paged%22%3A3%2C%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22lazy_load_term_meta%22%3Afalse%2C%22posts_per_page%22%3A10%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22post_type%22%3A%22%22%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%7D%2C%22query_before%22%3A%222021-04-04%2014%3A14%3A50%22%2C%22last_post_date%22%3A%222011-12-12%2016%3A21%3A30%22%2C%22body_class%22%3A%22infinite-scroll%20neverending%22%2C%22loading_text%22%3A%22Loading%20new%20page%22%2C%22stats%22%3A%22blog%3D9652311%26v%3Dwpcom%26tz%3D0%26user_id%3D0%26subd%3Dmythaxis%26x_pagetype%3Dinfinite%22%7D%7D' ) );
+		//]]>
+		</script>
+		<!--  -->
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202113y' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+<script id='highlander-comments-js-extra'>
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/mythaxis.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/mythaxis.wordpress.com\/wp-login.php?action=logout&_wpnonce=30f6aeebb5","homeURL":"https:\/\/mythaxis.wordpress.com\/","postID":"452","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1573483029j'></script>
+		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://mythaxis.wordpress.com/" rel="home">
+						Mythaxis					</a>
+				</div>
+				<div class="blog-credits">
+					<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a> 				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+				<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( value ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', value, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						if ( null !== usprivacyCookie ) {
+							maybeCallDoNotSellCallback();
+							return;
+						}
+
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										var data = JSON.parse( this.response );
+										var ccpa_applies = data['region'] && data['region'].toLowerCase() === 'california';
+
+										setCcpaAppliesCookie( ccpa_applies );
+
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												setDefaultOptInCookie();
+											}
+										}
+									} else {
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											setDefaultOptInCookie();
+										}
+									}
+								}
+							};
+
+							request.send();
+						} else {
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									setDefaultOptInCookie();
+								}
+							}
+						}
+					} );
+				};
+
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+					<script type="text/javascript">
+			( function( $ ) {
+				$( document.body ).on( 'post-load', function () {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			} )( jQuery );
+			</script>
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20201002";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20201002";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<label for="carousel-reblog-content" id="carousel-reblog-lblogcontent" class="screen-reader-text">Add your thoughts here... (optional)</label>
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="9652311" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://mythaxis.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="Mythaxis" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="d7ba28fb1b" /><input type="hidden" name="_wp_http_referer" value="/page/3/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+
+		<div
+			class="jp-carousel-wrap jp-carousel-transitions"
+			itemscope
+			itemtype="https://schema.org/ImageGallery"
+			style="display: none;">
+			<div class="jp-carousel-overlay"></div>
+			<div class="jp-carousel"></div>
+			<div class="jp-carousel-fadeaway"></div>
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-photo-info">
+					<h2 class="jp-carousel-caption" itemprop="caption description"></h2>
+				</div>
+				<div class="jp-carousel-info-columns">
+					<div class="jp-carousel-left-column-wrapper">
+						<div class="jp-carousel-titleanddesc"></div>
+						<!-- Intentional duplicate -->
+						<div class="jp-carousel-photo-info">
+							<h2 class="jp-carousel-caption" itemprop="caption description"></h2>
+						</div>
+													<div id="jp-carousel-comment-form-container">
+																											<form id="jp-carousel-comment-form">
+											<textarea
+												name="comment"
+												class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+												id="jp-carousel-comment-form-comment-field"
+												placeholder="Write a Comment..."
+											></textarea>
+											<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+												<div id="jp-carousel-comment-form-commenting-as">
+																											<fieldset>
+															<label for="email">Email (Required)</label>
+															<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+														</fieldset>
+														<fieldset>
+															<label for="author">Name (Required)</label>
+															<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+														</fieldset>
+														<fieldset>
+															<label for="url">Website</label>
+															<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+														</fieldset>
+																									</div>
+												<input
+													type="submit"
+													name="submit"
+													class="jp-carousel-comment-form-button"
+													id="jp-carousel-comment-form-button-submit"
+													value="Post Comment" />
+												<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+												<div id="jp-carousel-comment-post-results"></div>
+											</div>
+										</form>
+																								</div>
+							<div class="jp-carousel-comments"></div>
+							<div id="jp-carousel-comments-loading">
+								<span>Loading Comments...</span>
+							</div>
+											</div>
+					<div class="jp-carousel-image-meta">
+						<div class="jp-carousel-buttons">
+														<a class="jp-carousel-commentlink" href="#">Comment</a>
+																				</div>
+						<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+						<a class="jp-carousel-image-download" style="display: none;"></a>
+						<div class="jp-carousel-image-map" style="display: none;"></div>
+					</div>
+				</div>
+			</div>
+			<div class="jp-carousel-next-button" style="display: none;">
+				<span></span>
+			</div>
+			<div class="jp-carousel-previous-button" style="display: none;">
+				<span></span>
+			</div>
+			<div class="jp-carousel-close-hint"><span>&times;</span></div>
+		</div>
+
+		<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??/wp-content/mu-plugins/carousel/jetpack-carousel.css,/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1614628167j&cssminify=yes' type='text/css' media='all' />
+<script id='jetpack-carousel-js-extra'>
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/mythaxis.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"924e9689a1","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/mythaxis.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmythaxis.wordpress.com%2F2014%2F11%2F26%2Fwilliam-gibson-spook-country%2F","blog_id":"9652311","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=9652311&v=wpcom&tz=0&user_id=0&subd=mythaxis","is_public":"1","reblog_enabled":""};
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9j0luwzAMRS9UWVAXyaroWWiJMahQA0QqTm5fNYU7GIV3/KTew5ddq/ElK2a1UWzAG3ms9ynKi/11St1U7gtlsZQvlEkf38PB25XCgioW+7iWK6FhWK1iqgyKu/3eM3NZfkylBQhiPIPIIEdXn+o09xwYDxpASJTNDM0mEMU2JqMN/FU2iLLnHr6UI2KaMUwDOpB6aKULso2odbjMtvjPKeulzBG97oWb7UYBi/38lj6BZ64NRQ4qKDEGswAztsffNKj39OZO7nR2r2fn4gfoTLTd'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["postmessage","mobile-useragent-info","rlt-proxy","jquery-core","jquery-migrate","jquery","cmp-script-stub","wpcom-actionbar-placeholder","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","the-neverending-homepage","eu-cookie-law-script","cmp-script","wpcom-masterbar-tracks-js","wp-embed","jetpack-carousel","swfobject","videopress","tiled-gallery"] );
+				extend( window.infiniteScroll.settings.styles, ["wpcom-smileys","wordads-global","wordads-pilcrow","the-neverending-homepage","wp-block-library","jetpack-layout-grid","jetpack-ratings","coblocks-frontend","wpcom-core-compat-playlist-styles","wpcom-text-widget-styles","wpcom-bbpress2-staff-css","pilcrow","eu-cookie-law-style","geo-location-flair","reblogging","h4-global","jetpack-global-styles-frontend-style","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery"] );
+			})();
+		</script>
+				<span id="infinite-aria" aria-live="polite"></span>
+		<script src="//stats.wp.com/w.js?61" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'9652311','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'9652311','v':'wpcom','tz':'0','user_id':'0','subd':'mythaxis'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRaGp+TjRjdF9qRysrNUZ+YzlaZ3ZmPy1YUzdTX0ZmSyxmbj9lNXddMGV8LiZSXzBVVyxVM1lFRHJVNkpNZTUyL1NzaG0tREpCME18bWdjal83Q0c/W34yWE9bSXVWcUZmRjB5cjR1cXl5SVhUeks4R1BMbkZINGpERy4rST1NTjZGMWZTcXctY3dTTGF8YlVsbVVOc35qVTVPW3krdnY9T04tbXl0RHgwM0pZcC5tTHRZRU09aEdVZ09nLDRbRnFWRmt8S1g='}]);
+_stq.push([ 'clickTrackerInit', '9652311', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>
